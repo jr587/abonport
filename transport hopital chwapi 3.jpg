@@ -1,0 +1,2279 @@
+<!DOCTYPE html>
+<html lang="fr-FR">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="profile" href="http://gmpg.org/xfn/11" />
+	<link rel="pingback" href="https://www.ja-sante.fr/xmlrpc.php" />
+	<title>Oser le changement : le cas CHWAPI Belgique | JA Santé</title>
+<link rel="manifest" href="https://www.ja-sante.fr/pwa-manifest.json">
+<link rel="apple-touch-icon-precomposed" sizes="192x192" href="https://www.ja-sante.fr/wp-content/uploads/2021/02/JAS-Logo-App-192x192-1.png">
+<link rel='dns-prefetch' href='//cdn.jsdelivr.net' />
+<link rel='dns-prefetch' href='//challenges.cloudflare.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="JA Santé &raquo; Flux" href="https://www.ja-sante.fr/feed/" />
+<link rel="alternate" type="application/rss+xml" title="JA Santé &raquo; Flux des commentaires" href="https://www.ja-sante.fr/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.ja-sante.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.21"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-event-manager-frontend-css'  href='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/css/frontend.min.css?ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-event-manager-jquery-ui-daterangepicker-css'  href='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.css?ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-event-manager-jquery-ui-daterangepicker-style-css'  href='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/styles.css?ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-event-manager-jquery-ui-css-css'  href='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/jquery-ui/jquery-ui.css?ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-event-manager-grid-style-css'  href='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/css/wpem-grid.min.css?ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-event-manager-font-style-css'  href='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/fonts/style.css?ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.ja-sante.fr/wp-includes/css/dist/block-library/style.min.css?ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-css'  href='https://www.ja-sante.fr/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-public.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-gdpr-css'  href='https://www.ja-sante.fr/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-gdpr.css?ver=2.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://www.ja-sante.fr/wp-content/plugins/revslider/public/assets/css/rs6.css?ver=6.3.4' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='wp-event-manager-jquery-timepicker-css-css'  href='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.css?ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-style-css'  href='https://www.ja-sante.fr/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.11.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.2.3' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.2.3' type='text/css' media='all' />
+<style id='elementor-frontend-inline-css' type='text/css'>
+@font-face{font-family:eicons;src:url(https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0);src:url(https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.10.0#iefix) format("embedded-opentype"),url(https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.10.0) format("woff2"),url(https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.10.0) format("woff"),url(https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.10.0) format("truetype"),url(https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.10.0#eicon) format("svg");font-weight:400;font-style:normal}
+</style>
+<link rel='stylesheet' id='elementor-post-9-css'  href='https://www.ja-sante.fr/wp-content/uploads/elementor/css/post-9.css?ver=1767623706' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css'  href='https://www.ja-sante.fr/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='eihe-front-style-css'  href='https://www.ja-sante.fr/wp-content/plugins/image-hover-effects-addon-for-elementor/assets/style.min.css?ver=1.3.4' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-global-css'  href='https://www.ja-sante.fr/wp-content/uploads/elementor/css/global.css?ver=1767623707' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-66-css'  href='https://www.ja-sante.fr/wp-content/uploads/elementor/css/post-66.css?ver=1773224797' type='text/css' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css'  href='https://www.ja-sante.fr/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.9' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-75-css'  href='https://www.ja-sante.fr/wp-content/uploads/elementor/css/post-75.css?ver=1781874453' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-theme-style-css'  href='https://www.ja-sante.fr/wp-content/themes/hello-elementor/theme.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-child-style-css'  href='https://www.ja-sante.fr/wp-content/themes/hello-theme-child-master/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='hello-elementor-css'  href='https://www.ja-sante.fr/wp-content/themes/hello-elementor/style.min.css?ver=2.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-6698-css'  href='https://www.ja-sante.fr/wp-content/uploads/elementor/css/post-6698.css?ver=1767623707' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-4185-css'  href='https://www.ja-sante.fr/wp-content/uploads/elementor/css/post-4185.css?ver=1779518138' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-post-3977-css'  href='https://www.ja-sante.fr/wp-content/uploads/elementor/css/post-3977.css?ver=1780056960' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-css'  href='https://use.fontawesome.com/releases/v5.15.2/css/all.css' type='text/css' media='all' integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous" />
+<link rel='stylesheet' id='pwaforwp-style-css'  href='https://www.ja-sante.fr/wp-content/plugins/pwa-for-wp/assets/css/pwaforwp-main.min.css?ver=1.7.32' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-official-v4shim-css'  href='https://use.fontawesome.com/releases/v5.15.2/css/v4-shims.css' type='text/css' media='all' integrity="sha384-1CjXmylX8++C7CVZORGA9EwcbYDfZV2D4Kl1pTm3hp2I/usHDafIrgBJNuRTDQ4f" crossorigin="anonymous" />
+<style id='font-awesome-official-v4shim-inline-css' type='text/css'>
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-brands-400.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-solid-900.svg#fontawesome") format("svg");
+}
+
+@font-face {
+font-family: "FontAwesome";
+font-display: block;
+src: url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.eot"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.eot?#iefix") format("embedded-opentype"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.woff2") format("woff2"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.woff") format("woff"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.ttf") format("truetype"),
+		url("https://use.fontawesome.com/releases/v5.15.2/webfonts/fa-regular-400.svg#fontawesome") format("svg");
+unicode-range: U+F004-F005,U+F007,U+F017,U+F022,U+F024,U+F02E,U+F03E,U+F044,U+F057-F059,U+F06E,U+F070,U+F075,U+F07B-F07C,U+F080,U+F086,U+F089,U+F094,U+F09D,U+F0A0,U+F0A4-F0A7,U+F0C5,U+F0C7-F0C8,U+F0E0,U+F0EB,U+F0F3,U+F0F8,U+F0FE,U+F111,U+F118-F11A,U+F11C,U+F133,U+F144,U+F146,U+F14A,U+F14D-F14E,U+F150-F152,U+F15B-F15C,U+F164-F165,U+F185-F186,U+F191-F192,U+F1AD,U+F1C1-F1C9,U+F1CD,U+F1D8,U+F1E3,U+F1EA,U+F1F6,U+F1F9,U+F20A,U+F247-F249,U+F24D,U+F254-F25B,U+F25D,U+F267,U+F271-F274,U+F279,U+F28B,U+F28D,U+F2B5-F2B6,U+F2B9,U+F2BB,U+F2BD,U+F2C1-F2C2,U+F2D0,U+F2D2,U+F2DC,U+F2ED,U+F328,U+F358-F35B,U+F3A5,U+F3D1,U+F410,U+F4AD;
+}
+</style>
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-brands-css'  href='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.1' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/enable-jquery-migrate-helper/js/jquery/jquery-1.12.4-wp.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-migrate/jquery-migrate-1.4.1-wp.js?ver=1.4.1-wp' id='jquery-migrate-js'></script>
+<script type='text/javascript' id='cookie-law-info-js-extra'>
+/* <![CDATA[ */
+var Cli_Data = {"nn_cookie_ids":[],"cookielist":[],"non_necessary_cookies":[],"ccpaEnabled":"","ccpaRegionBased":"","ccpaBarEnabled":"","ccpaType":"gdpr","js_blocking":"1","custom_integration":"","triggerDomRefresh":"","secure_cookies":""};
+var cli_cookiebar_settings = {"animate_speed_hide":"500","animate_speed_show":"500","background":"#ff8300","border":"#b1a6a6c2","border_on":"","button_1_button_colour":"#ffffff","button_1_button_hover":"#cccccc","button_1_link_colour":"#ff8300","button_1_as_button":"1","button_1_new_win":"","button_2_button_colour":"#333","button_2_button_hover":"#292929","button_2_link_colour":"#ffffff","button_2_as_button":"","button_2_hidebar":"","button_3_button_colour":"#ffffff","button_3_button_hover":"#cccccc","button_3_link_colour":"#ffffff","button_3_as_button":"","button_3_new_win":"","button_4_button_colour":"#000","button_4_button_hover":"#000000","button_4_link_colour":"#ffffff","button_4_as_button":"","button_7_button_colour":"#61a229","button_7_button_hover":"#4e8221","button_7_link_colour":"#fff","button_7_as_button":"1","button_7_new_win":"","font_family":"inherit","header_fix":"","notify_animate_hide":"","notify_animate_show":"","notify_div_id":"#cookie-law-info-bar","notify_position_horizontal":"right","notify_position_vertical":"bottom","scroll_close":"","scroll_close_reload":"","accept_close_reload":"","reject_close_reload":"","showagain_tab":"","showagain_background":"#fff","showagain_border":"#000","showagain_div_id":"#cookie-law-info-again","showagain_x_position":"100px","text":"#ffffff","show_once_yn":"","show_once":"10000","logging_on":"","as_popup":"","popup_overlay":"","bar_heading_text":"","cookie_bar_as":"widget","popup_showagain_position":"bottom-right","widget_position":"right"};
+var log_object = {"ajax_url":"https:\/\/www.ja-sante.fr\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/cookie-law-info/public/js/cookie-law-info-public.js?ver=2.0.1' id='cookie-law-info-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/revslider/public/assets/js/rbtools.min.js?ver=6.3.4' id='tp-tools-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/revslider/public/assets/js/rs6.min.js?ver=6.3.4' id='revmin-js'></script>
+<link rel="https://api.w.org/" href="https://www.ja-sante.fr/wp-json/" /><link rel="alternate" type="application/json" href="https://www.ja-sante.fr/wp-json/wp/v2/event_listing/4607" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.ja-sante.fr/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.ja-sante.fr/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.21" />
+<link rel='shortlink' href='https://www.ja-sante.fr/?p=4607' />
+<link rel="alternate" type="application/json+oembed" href="https://www.ja-sante.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ja-sante.fr%2F%C3%A9v%C3%A9nement%2Foser-le-changement-le-cas-chwapi-belgique%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.ja-sante.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.ja-sante.fr%2F%C3%A9v%C3%A9nement%2Foser-le-changement-le-cas-chwapi-belgique%2F&#038;format=xml" />
+
+		<!-- GA Google Analytics @ https://m0n.co/ga -->
+		<script async src="https://www.googletagmanager.com/gtag/js?id=G-1P20M2CTZR"></script>
+		<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-1P20M2CTZR');
+		</script>
+
+	<!-- SEO meta tags powered by SmartCrawl https://premium.wpmudev.org/project/smartcrawl-wordpress-seo/ -->
+<link rel="canonical" href="https://www.ja-sante.fr/événement/oser-le-changement-le-cas-chwapi-belgique/" />
+<meta name="description" content="Oser la Transformation Digitale et Robotique durant une construction en cours. La construction sur un site unique des 3 hôpitaux qui composent le CHWAPI (Centre Hospitalier de Wallonie Picarde) est un projet engagé depuis plusieurs années, avec une livraison partielle déjà effectué (Phase 1). La ..." />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@type":"Organization","@id":"https:\/\/www.ja-sante.fr\/#schema-publishing-organization","url":"https:\/\/www.ja-sante.fr","name":"Journ\u00e9es de l'Architecture en Sant\u00e9","logo":{"@type":"ImageObject","@id":"https:\/\/www.ja-sante.fr\/#schema-organization-logo","url":"https:\/\/www.ja-sante.fr\/wp-content\/uploads\/2021\/01\/JAS_261583aa-cada-4e51-b5aa-d78d8a5030b6_341069b8-137c-4a26-a66f-78be65af2cb9-scaled.jpg","height":60,"width":60}},{"@type":"WebSite","@id":"https:\/\/www.ja-sante.fr\/#schema-website","url":"https:\/\/www.ja-sante.fr","name":"Journ\u00e9es de l'Architecture en Sant\u00e9","encoding":"UTF-8","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.ja-sante.fr\/search\/{search_term_string}\/","query-input":"required name=search_term_string"},"image":{"@type":"ImageObject","@id":"https:\/\/www.ja-sante.fr\/#schema-site-logo","url":"https:\/\/www.ja-sante.fr\/wp-content\/uploads\/2021\/01\/JAS_261583aa-cada-4e51-b5aa-d78d8a5030b6_341069b8-137c-4a26-a66f-78be65af2cb9-scaled.jpg","height":617,"width":2560}},{"@type":"WebPage","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-webpage","isPartOf":{"@id":"https:\/\/www.ja-sante.fr\/#schema-website"},"publisher":{"@id":"https:\/\/www.ja-sante.fr\/#schema-publishing-organization"},"url":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/","hasPart":[{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-59","name":"Le congr\u00e8s","url":"#"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-49","name":"","url":"https:\/\/www.ja-sante.fr\/journees-architecture-en-sante\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-12653","name":"","url":"https:\/\/www.ja-sante.fr\/hospital-tour-chpg\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-46","name":"Diner de Gala","url":"https:\/\/www.ja-sante.fr\/diner-de-gala\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-8765","name":"","url":"https:\/\/www.ja-sante.fr\/cocktail-de-networking\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-10294","name":"Op\u00e9ration \"Octobre Rose\"","url":"https:\/\/www.ja-sante.fr\/octobre-rose\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-13505","name":"","url":"https:\/\/www.ja-sante.fr\/forum-experts-de-la-securisation-peripherique\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-1381","name":"","url":"https:\/\/www.ja-sante.fr\/editions-precedentes\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-12516","name":"Retour sur l\u2019\u00e9dition 2025","url":"https:\/\/www.ja-sante.fr\/retour-sur-ledition-2025\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-13365","name":"Retour sur l&rsquo;\u00e9dition 2024","url":"https:\/\/www.ja-sante.fr\/retour-sur-ledition-2024\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-11568","name":"Retour sur l\u2019\u00e9dition 2023","url":"https:\/\/www.ja-sante.fr\/retour-sur-ledition-2023\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-11569","name":"Retour sur l\u2019\u00e9dition 2022","url":"https:\/\/www.ja-sante.fr\/retour-sur-ledition-2022\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-11570","name":"Retour sur l\u2019\u00e9dition 2021","url":"https:\/\/www.ja-sante.fr\/retour-sur-ledition-2021\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-11571","name":"Retour sur l\u2019\u00e9dition 2020","url":"https:\/\/www.ja-sante.fr\/retour-sur-ledition-2020\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-13366","name":"Retour sur l&rsquo;\u00e9dition 2019","url":"https:\/\/www.ja-sante.fr\/retour-sur-ledition-2019\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-60","name":"Exposition","url":"https:\/\/www.ja-sante.fr\/lexposition\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-5388","name":"Sponsoring","url":"https:\/\/www.ja-sante.fr\/sponsorisez-les-jas\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-1908","name":"Programme","url":"https:\/\/www.ja-sante.fr\/programme-2026\/"},{"@type":"SiteNavigationElement","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-nav-element-62","name":"Infos pratiques \/ H\u00e9bergement","url":"https:\/\/www.ja-sante.fr\/informations-pratiques\/"}]},{"@type":"Article","mainEntityOfPage":{"@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-webpage"},"author":{"@type":"Person","@id":"https:\/\/www.ja-sante.fr\/author\/abelluc-hospitalgmail-com\/#schema-author","name":"abelluc.hospital@gmail.com"},"publisher":{"@id":"https:\/\/www.ja-sante.fr\/#schema-publishing-organization"},"dateModified":"2022-05-11T09:38:15","datePublished":"2021-06-02T15:01:25","headline":"Oser le changement : le cas CHWAPI Belgique | JA Sant\u00e9","description":"Oser la Transformation Digitale et Robotique durant une construction en cours. La construction sur un site unique des 3 h\u00f4pitaux qui composent le CHWAPI (Centre Hospitalier de Wallonie Picarde) est un projet engag\u00e9 depuis plusieurs ann\u00e9es, avec une livraison partielle d\u00e9j\u00e0 effectu\u00e9 (Phase 1). La ...","name":"Oser le changement : le cas CHWAPI Belgique","image":{"@type":"ImageObject","@id":"https:\/\/www.ja-sante.fr\/\u00e9v\u00e9nement\/oser-le-changement-le-cas-chwapi-belgique\/#schema-article-image","url":"https:\/\/www.ja-sante.fr\/wp-content\/uploads\/2022\/05\/Conference-TH-3.jpg","height":723,"width":1087},"thumbnailUrl":"https:\/\/www.ja-sante.fr\/wp-content\/uploads\/2022\/05\/Conference-TH-3.jpg"}]}</script>
+<!-- /SEO -->
+
+        <script type="text/javascript">
+            var jQueryMigrateHelperHasSentDowngrade = false;
+
+			window.onerror = function( msg, url, line, col, error ) {
+				// Break out early, do not processing if a downgrade reqeust was already sent.
+				if ( jQueryMigrateHelperHasSentDowngrade ) {
+					return true;
+                }
+
+				var xhr = new XMLHttpRequest();
+				var nonce = '3e20f6d5d7';
+				var jQueryFunctions = [
+					'andSelf',
+					'browser',
+					'live',
+					'boxModel',
+					'support.boxModel',
+					'size',
+					'swap',
+					'clean',
+					'sub',
+                ];
+				var match_pattern = /\)\.(.+?) is not a function/;
+                var erroredFunction = msg.match( match_pattern );
+
+                // If there was no matching functions, do not try to downgrade.
+                if ( typeof erroredFunction !== 'object' || typeof erroredFunction[1] === "undefined" || -1 === jQueryFunctions.indexOf( erroredFunction[1] ) ) {
+                    return true;
+                }
+
+                // Set that we've now attempted a downgrade request.
+                jQueryMigrateHelperHasSentDowngrade = true;
+
+				xhr.open( 'POST', 'https://www.ja-sante.fr/wp-admin/admin-ajax.php' );
+				xhr.setRequestHeader( 'Content-Type', 'application/x-www-form-urlencoded' );
+				xhr.onload = function () {
+					var response,
+                        reload = false;
+
+					if ( 200 === xhr.status ) {
+                        try {
+                        	response = JSON.parse( xhr.response );
+
+                        	reload = response.data.reload;
+                        } catch ( e ) {
+                        	reload = false;
+                        }
+                    }
+
+					// Automatically reload the page if a deprecation caused an automatic downgrade, ensure visitors get the best possible experience.
+					if ( reload ) {
+						location.reload();
+                    }
+				};
+
+				xhr.send( encodeURI( 'action=jquery-migrate-downgrade-version&_wpnonce=' + nonce ) );
+
+				// Suppress error alerts in older browsers
+				return true;
+			}
+        </script>
+
+		<meta name="generator" content="Powered by Slider Revolution 6.3.4 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<link rel="icon" href="https://www.ja-sante.fr/wp-content/uploads/2023/02/Lettre-A-MENTON-JAS_2022_WEB-150x150.jpg" sizes="32x32" />
+<link rel="icon" href="https://www.ja-sante.fr/wp-content/uploads/2023/02/Lettre-A-MENTON-JAS_2022_WEB.jpg" sizes="192x192" />
+<meta name="msapplication-TileImage" content="https://www.ja-sante.fr/wp-content/uploads/2023/02/Lettre-A-MENTON-JAS_2022_WEB.jpg" />
+<meta name="pwaforwp" content="wordpress-plugin"/>
+        <meta name="theme-color" content="#ff8300">
+        <meta name="apple-mobile-web-app-title" content="JA Santé">
+        <meta name="application-name" content="JA Santé">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="default">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-touch-fullscreen" content="YES">
+<link rel="apple-touch-startup-image" href="https://www.ja-sante.fr/wp-content/uploads/2021/02/JAS-Logo-App-192x192-1.png">
+<link rel="apple-touch-icon" sizes="192x192" href="https://www.ja-sante.fr/wp-content/uploads/2021/02/JAS-Logo-App-192x192-1.png">
+<link rel="apple-touch-icon" sizes="512x512" href="https://www.ja-sante.fr/wp-content/uploads/2021/02/JAS-Logo-App-512.png">
+<script type="text/javascript">function setREVStartSize(e){
+			//window.requestAnimationFrame(function() {				 
+				window.RSIW = window.RSIW===undefined ? window.innerWidth : window.RSIW;	
+				window.RSIH = window.RSIH===undefined ? window.innerHeight : window.RSIH;	
+				try {								
+					var pw = document.getElementById(e.c).parentNode.offsetWidth,
+						newh;
+					pw = pw===0 || isNaN(pw) ? window.RSIW : pw;
+					e.tabw = e.tabw===undefined ? 0 : parseInt(e.tabw);
+					e.thumbw = e.thumbw===undefined ? 0 : parseInt(e.thumbw);
+					e.tabh = e.tabh===undefined ? 0 : parseInt(e.tabh);
+					e.thumbh = e.thumbh===undefined ? 0 : parseInt(e.thumbh);
+					e.tabhide = e.tabhide===undefined ? 0 : parseInt(e.tabhide);
+					e.thumbhide = e.thumbhide===undefined ? 0 : parseInt(e.thumbhide);
+					e.mh = e.mh===undefined || e.mh=="" || e.mh==="auto" ? 0 : parseInt(e.mh,0);		
+					if(e.layout==="fullscreen" || e.l==="fullscreen") 						
+						newh = Math.max(e.mh,window.RSIH);					
+					else{					
+						e.gw = Array.isArray(e.gw) ? e.gw : [e.gw];
+						for (var i in e.rl) if (e.gw[i]===undefined || e.gw[i]===0) e.gw[i] = e.gw[i-1];					
+						e.gh = e.el===undefined || e.el==="" || (Array.isArray(e.el) && e.el.length==0)? e.gh : e.el;
+						e.gh = Array.isArray(e.gh) ? e.gh : [e.gh];
+						for (var i in e.rl) if (e.gh[i]===undefined || e.gh[i]===0) e.gh[i] = e.gh[i-1];
+											
+						var nl = new Array(e.rl.length),
+							ix = 0,						
+							sl;					
+						e.tabw = e.tabhide>=pw ? 0 : e.tabw;
+						e.thumbw = e.thumbhide>=pw ? 0 : e.thumbw;
+						e.tabh = e.tabhide>=pw ? 0 : e.tabh;
+						e.thumbh = e.thumbhide>=pw ? 0 : e.thumbh;					
+						for (var i in e.rl) nl[i] = e.rl[i]<window.RSIW ? 0 : e.rl[i];
+						sl = nl[0];									
+						for (var i in nl) if (sl>nl[i] && nl[i]>0) { sl = nl[i]; ix=i;}															
+						var m = pw>(e.gw[ix]+e.tabw+e.thumbw) ? 1 : (pw-(e.tabw+e.thumbw)) / (e.gw[ix]);					
+						newh =  (e.gh[ix] * m) + (e.tabh + e.thumbh);
+					}				
+					if(window.rs_init_css===undefined) window.rs_init_css = document.head.appendChild(document.createElement("style"));					
+					document.getElementById(e.c).height = newh+"px";
+					window.rs_init_css.innerHTML += "#"+e.c+"_wrapper { height: "+newh+"px }";				
+				} catch(e){
+					console.log("Failure at Presize of Slider:" + e)
+				}					   
+			//});
+		  };</script>
+		<style type="text/css" id="wp-custom-css">
+			/*Temporaire : Masquer le panier*/
+.hfe-site-header-cart-li.current-menu-item, li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-3936 {
+	display:none
+}
+
+a.cli_settings_button {
+    color: #fff!important;
+}
+
+.cn-button.bootstrap {
+    color: #FF8300!important;
+    background: #ffffff!important;
+}
+
+/*Responsive 1024 to 1400*/
+@media screen and (min-width:1024px) and (max-width:1400px) {
+	.eael-countdown-container.eael-countdown-label-block.-tablet.-mobile, .elementor-element.elementor-element-784.elementor-widget.elementor-widget-eael-countdown {
+    width: 130vh!important;
+    margin-left: -30vh!important;
+}
+	header#masthead {
+    transform: scale(.9)!important;
+}
+}
+
+@media screen and (min-width:968px) { 
+	.mobile_image {
+		display:none!important;
+	}
+	}
+.sub-menu {
+	z-index:99999!important;
+}
+
+
+a:hover strong, .orange a {
+	color: #CF2E2E;
+}
+.org_col b {
+	color: #0A1D48;
+}
+span.elementor-button-text {
+    color: #fff!important;
+}
+.header_btn span.elementor-button-text {
+    color: #FFFFFF!important;
+}
+.header_btn:hover span.elementor-button-text {
+    color: #ff7e04!important;
+}
+.elementor-nav-menu--dropdown .elementor-item.elementor-item-active, .elementor-nav-menu--dropdown .elementor-item.highlighted, .elementor-nav-menu--dropdown .elementor-item:focus, .elementor-nav-menu--dropdown .elementor-item:hover, .elementor-sub-item.elementor-item-active, .elementor-sub-item.highlighted, .elementor-sub-item:focus, .elementor-sub-item:hover  {
+    background: #ff7e04!important;
+}
+
+.sub-menu {
+    -webkit-box-shadow: 0 5px 40px rgb(0 0 0 / 15%);
+    -moz-box-shadow: 0 5px 40px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 40px rgb(0 0 0 / 15%);
+    border-radius: 5px;
+}
+
+/*Caroussel*/
+.eael-grid-post-holder {
+    min-height: 22vh!important;
+}
+.eael-grid-post-holder, .wpem-event-layout-wrapper {
+    -webkit-box-shadow: 0 5px 40px rgb(0 0 0 / 15%);
+    -moz-box-shadow: 0 5px 40px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 5px rgb(0 0 0 / 15%);
+    border-radius: 5px;
+    border: 0px!important;
+	-webkit-transform: perspective(1px) translateZ(0);
+    transform: perspective(1px) translateZ(0);
+    -webkit-transition-duration: 10s;
+    transition-duration: 10s;
+    -webkit-transition-property: transform;
+    transition-property: transform;
+}
+.eael-grid-post-holder:hover, .wpem-event-layout-wrapper:hover {
+	-webkit-transform: scale(1.01);
+    transform: scale(1.01);
+}
+.post.type-post.status-publish.format-standard.has-post-thumbnail.hentry.category-exposants.category-sponsors.elementor-active {
+    -webkit-box-shadow: 0 5px 40px rgb(0 0 0 / 15%);
+    -moz-box-shadow: 0 5px 40px rgba(0, 0, 0, 0.15);
+    box-shadow: 0 5px 40px rgb(0 0 0 / 15%);
+}
+.elementor-posts-container.elementor-has-item-ratio .elementor-post__thumbnail.elementor-fit-height img {
+    height: auto;
+    width: 100%;
+	  background: #fff!important;
+}
+.elementor-portfolio.elementor-has-item-ratio .elementor-post__thumbnail {
+    background: #fff!important;
+}
+
+.eael-post-carousel .eael-entry-thumbnail>img, .swiper-container-wrap .eael-post-carousel .swiper-slide img {
+	object-fit:contain!important;
+	padding:10px!important;
+}
+
+h2 {
+	text-transform:uppercase;
+}
+div#page {
+    overflow-x: hidden;
+}
+
+/*Partenaires/Exposants*/
+.post-template-default h2.elementor-heading-title.elementor-size-default {
+    margin-top: 5vh!important;
+}
+/*Events*/
+
+/*Suppression bordure page event single*/
+.wpem-single-event-page .wpem-single-event-wrapper .wpem-single-event-body .wpem-single-event-left-content::after {
+    width: 0!important;
+}
+.wpem-single-event-page .wpem-single-event-wrapper {
+border: 0px solid #e4e4e4!important;
+}
+.wpem-main, .wpem-event-organizer-name {
+	color: #222222!important;
+}
+.wpem-event-listing-header-title h2.wpem-heading-text, .wpem-viewed-event.wpem-tooltip.wpem-tooltip-bottom, .wpem-event-organizer-name {
+	display:none;
+}
+h1.entry-title {
+    text-transform: ;
+    padding-top: 5vh;
+    padding-bottom: 3vh;
+	line-height:4vh;
+}
+/*Page event - bannière*/
+body.event_listing-template-default.single.single-event_listing .wpem-single-event-short-info .wpem-event-details .wpem-event-title h3.wpem-heading-text {
+    display: none;
+}
+.wpem-single-event-header-top, .wpem-social-icon.wpem-xing, .wpem-social-icon.wpem-pinterest {
+    display: none!important;
+}
+.wpem-single-event-short-info {
+    padding-top: 0!important;
+}
+.wpem-single-event-short-info h3.wpem-heading-text {
+	margin-top:0!important;
+}
+button.registration_button.wpem-theme-button {
+	background:  #EE7923!important;
+}
+button.registration_button.wpem-theme-button:hover {
+	opacity:0.7;
+}
+a.wpem-theme-button span {
+    color: #000!important;
+}
+h3.wpem-heading-text a, .wpem-single-event-sidebar-info a {
+	color:#000!important;
+}
+h3.wpem-heading-text a {
+	opacity:0.8;
+}
+
+/*Evenements organisateurs
+.wpem-organizer-social-lists {
+    display: none!important;
+}*/
+.wpem-organizer-social-links {
+    float: left!important;
+    display: block!important;
+    padding-left: 4vh!important;
+}
+.event_listing-template-default .wpem-organizer-profile .wpem-organizer-social-links {
+    display: none!important;
+}
+.wpem-organizer-social-lists {
+    filter: grayscale(100%);
+}
+.wpem-organizer-inner-wrapper .wpem-row .wpem-col-md-3.wpem-col-sm-12:first-child, .wpem-to-date {
+    display: none;
+}.wpem-organizer-inner-wrapper .wpem-row .wpem-col-md-3.wpem-col-sm-12:first-child {
+    display: none;
+}
+.wpem-organizer-inner-wrapper {
+    width: 33%;
+    display: block;
+    float: left;
+}
+.single_event_listing .wpem-organizer-inner-wrapper {
+    padding: 5px!important;
+}
+wpem-organizer-short-info img {
+    border-radius: 50px;
+}
+.wpem-organizer-short-info h3 {
+    font-size: 1em;
+    margin-bottom: -0.2vh;
+}
+.wpem-row div#wpem_organizer_profile {
+    margin-bottom: 5vh;
+}
+.wpem-organizer-page-url-button {
+    margin-bottom: 5vh;
+}
+.wpem-event-organizer-name a, .wpem-organizer-name.wpem-heading-text span {
+    color: #000;
+}
+.wpem-listing-accordion.active, .wpem-listing-accordion {
+    background: #00!important;
+}
+.wpem-listing-accordion.active,.wpem-listing-accordion {
+	margin-top:5vh!important;
+}
+.wpem-listing-accordion.active h3, .wpem-listing-accordion h3 {
+    color: #000!important;
+}
+.wpem-icon-minus:before {
+    color: #000!important;
+}
+.wpem-organizer-short-info img {
+    border-radius: 50px;
+}
+.wpem-event-banner-img {
+    border-radius: 5px 5px 0 0 !important;
+}
+.wpem-single-event-page .wpem-single-event-wrapper .wpem-single-event-body .wpem-single-event-left-content .wpem-single-event-short-info .wpem-viewed-event .wpem-icon-eye {
+	color: #000;
+}
+
+/*Label*/
+span.wpem-event-type-text.event-type.ceremonie {
+    background-color: #777!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.covid-19 {
+    background-color: #f44336!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.territoire-de-sante {
+    background-color: #3f51b5!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.medico-social {
+    background-color: #ff9800!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.international {
+    background-color: #673ab7!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.nouvelles-tendances {
+    background-color: #69c743!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.institutionnels-et-partenaires-de-luafs {
+    background-color: #03a9f4!important;
+    color: #fff;
+}
+.label-default {
+    background-color: #777!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.hopital-du-futur {
+    background-color: #795548!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.uafs {
+    background-color: #070ff7!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.psychiatrie {
+    background-color: #7575d3!important;
+    color: #fff;
+}
+pan.wpem-event-category-text.event-category.urbanisme {
+    background-color: #27b09c!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category.design-de-lespace-hospitalier {
+    background-color: #e0cd30!important;
+    color: #fff;
+}
+span.wpem-event-category-text.event-category, span.wpem-event-type-text.event-type {
+    font-weight: 400;
+}
+h3.wpem-heading-text {
+    font-weight: 200!important;
+    margin-top: 2vh!important;
+}
+.wpem-from-date {
+	 background: #fff!important;
+}
+.wpem-from-date .wpem-date, .wpem-from-date .wpem-month {
+    color: #000!important;
+}
+.wpem-event-details .wpem-event-title h3.wpem-heading-text {
+    color: #000!important;
+	  text-transform:uppercase!important;
+}
+span.wpem-event-type-text.event-type.atelier, a.wpem-theme-button, span.wpem-event-type-text.event-type.ceremonie, span.wpem-event-type-text.event-type.conference, span.wpem-event-type-text.event-type.symposium {
+    background: transparent!important;
+    color: #000!important;
+    border: 1px solid #000!important;
+}
+.wpem-form-wrapper .chosen-container {
+    background: transparent!important;
+    border: 1px solid #ff8300!important;
+}
+.wpem-form-wrapper .chosen-container a span  {
+    color: #ff8300!important;
+}
+.wpem-single-event-page .wpem-single-event-wrapper .wpem-single-event-body .wpem-single-event-body-sidebar .wpem-event-type .event-type, .wpem-single-event-page .wpem-single-event-wrapper .wpem-single-event-body .wpem-single-event-body-sidebar .wpem-event-category .event-category
+ {
+	padding: 5px 20px!important;
+}
+
+.wpem-col-xs-12.wpem-col-sm-5.wpem-col-md-4.wpem-single-event-right-content {
+    background: #F9F9F9!important;
+	  padding-left:3vh!important;
+}
+.wpem-event-organizer-tabs .wpem-tabs-wrapper .wpem-tabs-wrap .wpem-tab-link.active, .wpem-event-venue-tabs .wpem-tabs-wrapper .wpem-tabs-wrap .wpem-tab-link.active {
+	color: #00000!important;
+  background: #EE7923!important;
+}
+.wpem-tabs-wrapper .wpem-tabs-wrap .wpem-tab-link {
+    background: #ff!important;
+	  color: #222!important;
+}
+.wpem-event-listing-list-view.wpem-event-listings .wpem-event-layout-wrapper .event_listing {
+    border: 0px solid #ddd!important;
+}
+div#wpem_organizer_profile {
+    margin-top: 5vh!important;
+    margin-bottom: 5vh!important;
+}
+.wpem-single-organizer-profile-wrapper, .wpem-single-venue-profile-wrapper {
+    padding: 5vh 5vh 0 5vh!important;
+}
+body.event_listing-template-default .wpem-organizer-short-info img.alignnone.size-medium {
+    height: 15vh!important;
+    width: auto!important;
+	  filter: grayscale(1)!important;
+}
+body.event_listing-template-default.single.single-event_listing h5.page_tagline,body.event_listing-template-default.single.single-event_listing h5 {
+    display:none!important;
+}
+body.event_listing-template-default .wpem-organizer-short-info img.alignnone.size-medium:hover {
+    filter: grayscale(0);
+}
+a.wpem-theme-button {
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+    transition-property: all;
+    transition-duration: 0.3s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}
+a.wpem-theme-button:hover {
+  background:  #EE7923!important;
+}
+a.wpem-theme-button:hover span {
+	color: #ffffff!important;
+}
+body.event_listing-template-default .wpem-organizer-name.wpem-heading-text span {
+    margin: auto!important;
+}
+.registration_details.wpem-register-event-form.wpem-form-wrapper p a:hover {
+    color:#ff8300!important;
+}
+.wpem-event-organizer-tabs .wpem-tabs-wrapper .wpem-tabs-wrap .wpem-tab-link, .wpem-event-venue-tabs .wpem-tabs-wrapper .wpem-tabs-wrap .wpem-tab-link {
+    border-radius: 5px 5px 0 0!important;
+}
+.wpem-event-organizer-tabs .wpem-tabs-wrapper .wpem-tabs-wrap .wpem-tab-link.active, .wpem-event-venue-tabs .wpem-tabs-wrapper .wpem-tabs-wrap .wpem-tab-link.active {
+	border: 2px solid #00!important;
+}
+.wpem-event-organizer-tabs .event-organizer-tab-contents.wpem-tab-content.current, .wpem-event-venue-tabs .event-venue-tab-contents.wpem-tab-content.current {
+    border: 2px solid #00!important;
+    border-radius: 5px!important;
+}
+
+/*Filtres*/
+input#search_keywords, input#search_location {
+    display: none!important;
+}
+.search_events.search-form-container .wpem-row:first-child .wpem-col:first-child, .search_events.search-form-container .wpem-row:first-child .wpem-col:nth-child(2),.search_events.search-form-container .wpem-row:first-child .wpem-col:nth-child(3) {
+    display: none!important;
+}
+.showing_applied_filters.showing-applied-filters {
+    background: transparent!important;
+    border: 1px solid #000!important;
+    padding: 0.5vh 2vh!important;
+    color: #000!important;
+}
+a.reset, a.rss_link {
+    color: #000!important;
+} 
+div#wpem-event-box-layout, div#wpem-event-list-layout {
+    background: #000!important;
+    color: #fff!important;
+}
+.wpem-form-group .comiseo-daterangepicker-triggerbutton.ui-button {
+	width: calc(100%)!important;
+}
+button#drp_autogen0,select#search_event_types,select#search_categories {
+    border: 1px #000 solid!important;
+    border-radius: 5px!important;
+	  color:#000!important;
+}
+span.ui-button-icon.ui-icon.ui-icon-triangle-1-s {
+	color:#0000!important;
+}
+li.wpem-tab-link:first-child {
+    display: none!important;
+}
+body.event_organizer-template-default.single.single-event_organizer .wpem-organizer-name.wpem-heading-text {
+    margin-top: 3vh!important;
+}
+.wpem-organizer-short-info h5 {
+    text-align: center!important;
+    margin: auto!important;
+    font-weight: 800!important;
+    font-size: 30px;
+}
+.wpem-organizer-organisation.wpem-heading-text {
+    margin-top: -1vh;
+}
+
+
+/*----------------------------------------------- PAGE TARIFS  ------------------------------------------------------*/
+#hopsital-tour span.elementor-button-text, .eael-pricing .eael-pricing-item ul li span.li-icon{
+	color:#FF8300!important;
+}
+/*----------------------------------------------- PANIER ------------------------------------------------------*/
+body.page-template-default.page.page-id-3728 {
+    background: #F9F9F9;
+}
+table caption+thead tr:first-child td, table caption+thead tr:first-child th, table colgroup+thead tr:first-child td, table colgroup+thead tr:first-child th, table thead:first-child tr:first-child td, table thead:first-child tr:first-child th, .woocommerce table.shop_table td, input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=url], select, textarea, tr.cart-subtotal {
+    border: 1px solid #fc8100!important;
+}
+td.product-thumbnail, th.product-thumbnail, .cart_totals h2 {
+    display: none;
+}
+table caption+thead tr:first-child td, table caption+thead tr:first-child th, table colgroup+thead tr:first-child td, table colgroup+thead tr:first-child th, table thead:first-child tr:first-child td, table thead:first-child tr:first-child th, .woocommerce table.shop_table td, input[type=date], input[type=email], input[type=number], input[type=password], input[type=search], input[type=tel], input[type=text], input[type=url], select, textarea, tr.cart-subtotal, tr.cart-subtotal th, tr.order-total th,.select2-container--default .select2-selection--single, table.woocommerce-table.woocommerce-table--order-details.shop_table.order_details tr th, button.woocommerce-button.button.woocommerce-form-login__submit, tr.tax-total th {
+    border: 1px solid #fc8100!important;
+}
+button.woocommerce-button.button.woocommerce-form-login__submit {
+	background:#fff;
+}
+button.woocommerce-button.button.woocommerce-form-login__submit:hover {
+	background:#fc8100;
+	color:#fff;
+}
+.wc-proceed-to-checkout a.checkout-button.button.alt.wc-forward, button#place_order, .payment_box.payment_method_bacs, .payment_box.payment_method_cheque {
+    background-color: #ff8300!important; 
+}
+.woocommerce-checkout #payment div.payment_box::before {
+	border:0!important;
+}
+.payment_box.payment_method_bacs p, .payment_box.payment_method_cheque p {
+	color:#fff!important;
+}
+.wc-proceed-to-checkout a.checkout-button.button.alt.wc-forward:hover, button#place_order:hover {
+    background-color: #FF8300E6!important;
+}
+.woocommerce a.button, .woocommerce button.button:disabled, .woocommerce button.button:disabled[disabled], #add_payment_method #payment, .woocommerce-cart #payment, .woocommerce-checkout #payment,.woocommerce-error, .woocommerce-info, .woocommerce-message, mark {
+	 background-color: #ff830026!important;
+}
+
+/*Info box*/
+.woocommerce-info {
+    border-top-color: #0a1d48;
+}
+.woocommerce-info::before {
+	 color: #0a1d48;
+}
+
+/*Page commande*/
+p#billing_company_field:before, p#billing_adresse_de_facturation_differente_si_oui_merci_de_nous_lindiquer_ci_dessous__field:before, p#billing_nom_field:before, p#account_password_field:before  {
+    margin: 6vh 0 3vh 0;
+    font-size: 26px;
+    font-weight: 600;
+}
+p#account_password_field:before {
+    content: "ACCÈS AU COMPTE";
+}
+
+p#billing_company_field:before  {
+    content: "CONTACT COMMANDITAIRE";
+}
+p#billing_nom_field:before {
+    content: "CONTACT CONGRÈS";
+}
+p#billing_adresse_de_facturation_differente_si_oui_merci_de_nous_lindiquer_ci_dessous__field:before {
+	 content: "INFORMATIONS DE FACTURATION";
+}
+h3#order_review_heading {
+    margin-top: 6vh;
+}
+.woocommerce-order-received section.woocommerce-customer-details {
+    display: none;
+}
+div#payment {
+    margin-bottom: 10vh;
+}
+/*Page mon compte */
+li.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--dashboard.is-active::marker, li.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--orders::marker, nav.woocommerce-MyAccount-navigation li a, li.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--edit-address::marker, li.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--edit-account::marker, li.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--customer-logout::marker, li.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--dashboard::marker {
+    color: #fff!important;
+}
+.woocommerce-account .woocommerce-MyAccount-navigation {
+    float: left;
+    width: 30%!important;
+}
+nav.woocommerce-MyAccount-navigation {
+    background: #ff8300!important;
+    padding: 3vh 0!important;
+    border-radius:3px!important;
+}
+li.woocommerce-MyAccount-navigation-link.woocommerce-MyAccount-navigation-link--downloads {
+	display:none;
+}
+
+/*Page connexion*/
+body.page-template-default.page.page-id-3730 main.site-main .elementor-column-wrap {
+    width: 70%;
+    margin: auto;
+}
+.woocommerce form.checkout_coupon, .woocommerce form.login, .woocommerce form.register, .woocommerce .woocommerce-customer-details address {
+	border: 1px solid #ff8300;
+}
+
+
+/*-------- UP SELLS -----*/
+.cross-sells ul li a img {
+    display: none!important;
+}
+li.product.type-product {
+    border: #ff8300 solid 1px;
+    padding: 2vh!important;
+}
+.cross-sells span.price {
+    color: var( --e-global-color-text )!important;
+    font-size: 20px!important;
+    font-weight: 700!important;
+}
+		</style>
+		</head>
+
+<body class="event_listing-template-default single single-event_listing postid-4607 wp-custom-logo ehf-header ehf-footer ehf-template-hello-elementor ehf-stylesheet-hello-theme-child-master hello-elementor-child elementor-default elementor-kit-9">
+<div id="page" class="hfeed site">
+
+		<header id="masthead" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
+			<p class="main-title bhf-hidden" itemprop="headline"><a href="https://www.ja-sante.fr" title="JA Santé" rel="home">JA Santé</a></p>
+					<div data-elementor-type="wp-post" data-elementor-id="66" class="elementor elementor-66" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-ed35442 elementor-hidden-phone elementor-hidden-tablet elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ed35442" data-element_type="section" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_scale_effect&quot;:&quot;yes&quot;,&quot;motion_fx_scale_direction&quot;:&quot;in-out&quot;,&quot;motion_fx_scale_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:8,&quot;sizes&quot;:[]},&quot;motion_fx_scale_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;],&quot;motion_fx_range&quot;:&quot;viewport&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-d102fb4" data-id="d102fb4" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-175b1af elementor-widget elementor-widget-site-logo" data-id="175b1af" data-element_type="widget" data-widget_type="site-logo.default">
+				<div class="elementor-widget-container">
+					<div class="hfe-site-logo">
+													<a data-elementor-open-lightbox=""  class='elementor-clickable' href="https://www.ja-sante.fr">
+							<div class="hfe-site-logo-set">           
+				<div class="hfe-site-logo-container">
+					<img class="hfe-site-logo-img elementor-animation-"  src="https://www.ja-sante.fr/wp-content/uploads/2021/01/cropped-JAS_261583aa-cada-4e51-b5aa-d78d8a5030b6_341069b8-137c-4a26-a66f-78be65af2cb9-scaled-2-300x72.jpg" alt=""/>
+				</div>
+			</div>
+							</a>
+						</div>  
+					</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-c816577" data-id="c816577" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-86bf212 elementor-nav-menu__align-justify elementor-nav-menu--stretch elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="86bf212" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-86bf212" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59"><a href="#" class="elementor-item elementor-item-anchor">Le congrès</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://www.ja-sante.fr/journees-architecture-en-sante/" class="elementor-sub-item">Journées Architecture en Santé</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12653"><a href="https://www.ja-sante.fr/hospital-tour-chpg/" class="elementor-sub-item">Hospital Tour</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://www.ja-sante.fr/diner-de-gala/" class="elementor-sub-item">Diner de Gala</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8765"><a href="https://www.ja-sante.fr/cocktail-de-networking/" class="elementor-sub-item">Cocktail de Networking</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10294"><a href="https://www.ja-sante.fr/octobre-rose/" class="elementor-sub-item">Opération « Octobre Rose »</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13505"><a href="https://www.ja-sante.fr/forum-experts-de-la-securisation-peripherique/" class="elementor-sub-item">Forum des Experts de la Sécurisation Périphérique</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1381"><a href="https://www.ja-sante.fr/editions-precedentes/" class="elementor-sub-item">Editions précédentes</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12516"><a href="https://www.ja-sante.fr/retour-sur-ledition-2025/" class="elementor-sub-item">Retour sur l’édition 2025</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13365"><a href="https://www.ja-sante.fr/retour-sur-ledition-2024/" class="elementor-sub-item">Retour sur l&rsquo;édition 2024</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11568"><a href="https://www.ja-sante.fr/retour-sur-ledition-2023/" class="elementor-sub-item">Retour sur l’édition 2023</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11569"><a href="https://www.ja-sante.fr/retour-sur-ledition-2022/" class="elementor-sub-item">Retour sur l’édition 2022</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11570"><a href="https://www.ja-sante.fr/retour-sur-ledition-2021/" class="elementor-sub-item">Retour sur l’édition 2021</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11571"><a href="https://www.ja-sante.fr/retour-sur-ledition-2020/" class="elementor-sub-item">Retour sur l’édition 2020</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13366"><a href="https://www.ja-sante.fr/retour-sur-ledition-2019/" class="elementor-sub-item">Retour sur l&rsquo;édition 2019</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="https://www.ja-sante.fr/lexposition/" class="elementor-item">Exposition</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5388"><a href="https://www.ja-sante.fr/sponsorisez-les-jas/" class="elementor-item">Sponsoring</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1908"><a href="https://www.ja-sante.fr/programme-2026/" class="elementor-item">Programme</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62"><a href="https://www.ja-sante.fr/informations-pratiques/" class="elementor-item">Infos pratiques / Hébergement</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Permuter le menu" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-86bf212" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59"><a href="#" class="elementor-item elementor-item-anchor">Le congrès</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://www.ja-sante.fr/journees-architecture-en-sante/" class="elementor-sub-item">Journées Architecture en Santé</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12653"><a href="https://www.ja-sante.fr/hospital-tour-chpg/" class="elementor-sub-item">Hospital Tour</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://www.ja-sante.fr/diner-de-gala/" class="elementor-sub-item">Diner de Gala</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8765"><a href="https://www.ja-sante.fr/cocktail-de-networking/" class="elementor-sub-item">Cocktail de Networking</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10294"><a href="https://www.ja-sante.fr/octobre-rose/" class="elementor-sub-item">Opération « Octobre Rose »</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13505"><a href="https://www.ja-sante.fr/forum-experts-de-la-securisation-peripherique/" class="elementor-sub-item">Forum des Experts de la Sécurisation Périphérique</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1381"><a href="https://www.ja-sante.fr/editions-precedentes/" class="elementor-sub-item">Editions précédentes</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12516"><a href="https://www.ja-sante.fr/retour-sur-ledition-2025/" class="elementor-sub-item">Retour sur l’édition 2025</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13365"><a href="https://www.ja-sante.fr/retour-sur-ledition-2024/" class="elementor-sub-item">Retour sur l&rsquo;édition 2024</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11568"><a href="https://www.ja-sante.fr/retour-sur-ledition-2023/" class="elementor-sub-item">Retour sur l’édition 2023</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11569"><a href="https://www.ja-sante.fr/retour-sur-ledition-2022/" class="elementor-sub-item">Retour sur l’édition 2022</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11570"><a href="https://www.ja-sante.fr/retour-sur-ledition-2021/" class="elementor-sub-item">Retour sur l’édition 2021</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11571"><a href="https://www.ja-sante.fr/retour-sur-ledition-2020/" class="elementor-sub-item">Retour sur l’édition 2020</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13366"><a href="https://www.ja-sante.fr/retour-sur-ledition-2019/" class="elementor-sub-item">Retour sur l&rsquo;édition 2019</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="https://www.ja-sante.fr/lexposition/" class="elementor-item">Exposition</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5388"><a href="https://www.ja-sante.fr/sponsorisez-les-jas/" class="elementor-item">Sponsoring</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1908"><a href="https://www.ja-sante.fr/programme-2026/" class="elementor-item">Programme</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62"><a href="https://www.ja-sante.fr/informations-pratiques/" class="elementor-item">Infos pratiques / Hébergement</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-0e94acd elementor-hidden-tablet elementor-hidden-phone" data-id="0e94acd" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-13effd8 elementor-align-center header_btn elementor-widget elementor-widget-button" data-id="13effd8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.ja-sante.fr/inscription/" class="elementor-button-link elementor-button elementor-size-md elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">JE M'INSCRIS</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-b7f82fb elementor-hidden-desktop elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b7f82fb" data-element_type="section" data-settings="{&quot;sticky&quot;:&quot;top&quot;,&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_scale_effect&quot;:&quot;yes&quot;,&quot;motion_fx_scale_direction&quot;:&quot;in-out&quot;,&quot;motion_fx_scale_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:8,&quot;sizes&quot;:[]},&quot;motion_fx_scale_range&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;],&quot;motion_fx_range&quot;:&quot;viewport&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-788f7d2" data-id="788f7d2" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-e9d6d44 elementor-widget elementor-widget-site-logo" data-id="e9d6d44" data-element_type="widget" data-widget_type="site-logo.default">
+				<div class="elementor-widget-container">
+					<div class="hfe-site-logo">
+													<a data-elementor-open-lightbox=""  class='elementor-clickable' href="https://www.ja-sante.fr">
+							<div class="hfe-site-logo-set">           
+				<div class="hfe-site-logo-container">
+					<img class="hfe-site-logo-img elementor-animation-"  src="https://www.ja-sante.fr/wp-content/uploads/2021/01/cropped-JAS_261583aa-cada-4e51-b5aa-d78d8a5030b6_341069b8-137c-4a26-a66f-78be65af2cb9-scaled-2-300x72.jpg" alt=""/>
+				</div>
+			</div>
+							</a>
+						</div>  
+					</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-6a7493f elementor-hidden-desktop" data-id="6a7493f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2b6bdb5 elementor-align-center header_btn elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="2b6bdb5" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.ja-sante.fr/inscription/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Je m'inscris</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-278934c" data-id="278934c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d05cb7b elementor-nav-menu__align-right elementor-nav-menu--indicator-chevron elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="d05cb7b" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none"><ul id="menu-1-d05cb7b" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59"><a href="#" class="elementor-item elementor-item-anchor">Le congrès</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://www.ja-sante.fr/journees-architecture-en-sante/" class="elementor-sub-item">Journées Architecture en Santé</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12653"><a href="https://www.ja-sante.fr/hospital-tour-chpg/" class="elementor-sub-item">Hospital Tour</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://www.ja-sante.fr/diner-de-gala/" class="elementor-sub-item">Diner de Gala</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8765"><a href="https://www.ja-sante.fr/cocktail-de-networking/" class="elementor-sub-item">Cocktail de Networking</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10294"><a href="https://www.ja-sante.fr/octobre-rose/" class="elementor-sub-item">Opération « Octobre Rose »</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13505"><a href="https://www.ja-sante.fr/forum-experts-de-la-securisation-peripherique/" class="elementor-sub-item">Forum des Experts de la Sécurisation Périphérique</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1381"><a href="https://www.ja-sante.fr/editions-precedentes/" class="elementor-sub-item">Editions précédentes</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12516"><a href="https://www.ja-sante.fr/retour-sur-ledition-2025/" class="elementor-sub-item">Retour sur l’édition 2025</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13365"><a href="https://www.ja-sante.fr/retour-sur-ledition-2024/" class="elementor-sub-item">Retour sur l&rsquo;édition 2024</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11568"><a href="https://www.ja-sante.fr/retour-sur-ledition-2023/" class="elementor-sub-item">Retour sur l’édition 2023</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11569"><a href="https://www.ja-sante.fr/retour-sur-ledition-2022/" class="elementor-sub-item">Retour sur l’édition 2022</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11570"><a href="https://www.ja-sante.fr/retour-sur-ledition-2021/" class="elementor-sub-item">Retour sur l’édition 2021</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11571"><a href="https://www.ja-sante.fr/retour-sur-ledition-2020/" class="elementor-sub-item">Retour sur l’édition 2020</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13366"><a href="https://www.ja-sante.fr/retour-sur-ledition-2019/" class="elementor-sub-item">Retour sur l&rsquo;édition 2019</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="https://www.ja-sante.fr/lexposition/" class="elementor-item">Exposition</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5388"><a href="https://www.ja-sante.fr/sponsorisez-les-jas/" class="elementor-item">Sponsoring</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1908"><a href="https://www.ja-sante.fr/programme-2026/" class="elementor-item">Programme</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62"><a href="https://www.ja-sante.fr/informations-pratiques/" class="elementor-item">Infos pratiques / Hébergement</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Permuter le menu" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-d05cb7b" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-59"><a href="#" class="elementor-item elementor-item-anchor">Le congrès</a>
+<ul class="sub-menu elementor-nav-menu--dropdown">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-49"><a href="https://www.ja-sante.fr/journees-architecture-en-sante/" class="elementor-sub-item">Journées Architecture en Santé</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12653"><a href="https://www.ja-sante.fr/hospital-tour-chpg/" class="elementor-sub-item">Hospital Tour</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-46"><a href="https://www.ja-sante.fr/diner-de-gala/" class="elementor-sub-item">Diner de Gala</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8765"><a href="https://www.ja-sante.fr/cocktail-de-networking/" class="elementor-sub-item">Cocktail de Networking</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10294"><a href="https://www.ja-sante.fr/octobre-rose/" class="elementor-sub-item">Opération « Octobre Rose »</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13505"><a href="https://www.ja-sante.fr/forum-experts-de-la-securisation-peripherique/" class="elementor-sub-item">Forum des Experts de la Sécurisation Périphérique</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1381"><a href="https://www.ja-sante.fr/editions-precedentes/" class="elementor-sub-item">Editions précédentes</a>
+	<ul class="sub-menu elementor-nav-menu--dropdown">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-12516"><a href="https://www.ja-sante.fr/retour-sur-ledition-2025/" class="elementor-sub-item">Retour sur l’édition 2025</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13365"><a href="https://www.ja-sante.fr/retour-sur-ledition-2024/" class="elementor-sub-item">Retour sur l&rsquo;édition 2024</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11568"><a href="https://www.ja-sante.fr/retour-sur-ledition-2023/" class="elementor-sub-item">Retour sur l’édition 2023</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11569"><a href="https://www.ja-sante.fr/retour-sur-ledition-2022/" class="elementor-sub-item">Retour sur l’édition 2022</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11570"><a href="https://www.ja-sante.fr/retour-sur-ledition-2021/" class="elementor-sub-item">Retour sur l’édition 2021</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11571"><a href="https://www.ja-sante.fr/retour-sur-ledition-2020/" class="elementor-sub-item">Retour sur l’édition 2020</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13366"><a href="https://www.ja-sante.fr/retour-sur-ledition-2019/" class="elementor-sub-item">Retour sur l&rsquo;édition 2019</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-60"><a href="https://www.ja-sante.fr/lexposition/" class="elementor-item">Exposition</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5388"><a href="https://www.ja-sante.fr/sponsorisez-les-jas/" class="elementor-item">Sponsoring</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1908"><a href="https://www.ja-sante.fr/programme-2026/" class="elementor-item">Programme</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-62"><a href="https://www.ja-sante.fr/informations-pratiques/" class="elementor-item">Infos pratiques / Hébergement</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d71f064 elementor-hidden-tablet elementor-hidden-phone" data-id="d71f064" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-90ea292 elementor-align-center header_btn elementor-widget elementor-widget-button" data-id="90ea292" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.ja-sante.fr/inscription/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Je m'inscris</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-563b002 elementor-hidden-tablet elementor-hidden-phone" data-id="563b002" data-element_type="column">
+			<div class="elementor-column-wrap">
+							<div class="elementor-widget-wrap">
+								</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+				</header>
+
+	
+<main class="site-main post-4607 event_listing type-event_listing status-publish has-post-thumbnail hentry event_listing_category-international event_listing_type-conference" role="main">
+			<header class="page-header">
+			<h1 class="entry-title">Oser le changement : le cas CHWAPI Belgique</h1>		</header>
+		<div class="page-content">
+		<div class="single_event_listing">
+
+    <div class="wpem-main wpem-single-event-page">
+                                            <div class="wpem-single-event-wrapper">
+                <div class="wpem-single-event-header-top">
+                    <div class="wpem-row">
+
+                        <div class="wpem-col-xs-12 wpem-col-sm-12 wpem-col-md-12 wpem-single-event-images">
+                                                            <div class="wpem-event-single-image-wrapper">
+                                    <div class="wpem-event-single-image"><img itemprop="image" content="https://www.ja-sante.fr/wp-content/uploads/2021/05/Conference-TH-3.jpg" src="https://www.ja-sante.fr/wp-content/uploads/2021/05/Conference-TH-3.jpg" alt="Thierry COURBIS, Didier DELVAL, Laurent GRISAY" /></div>
+                                </div>
+                                                    </div>
+
+                    </div>
+                </div>
+
+                <div class="wpem-single-event-body">
+                    <div class="wpem-row">
+                        <div class="wpem-col-xs-12 wpem-col-sm-7 wpem-col-md-8 wpem-single-event-left-content">
+                            <div class="wpem-single-event-short-info">                        
+                                <div class="wpem-event-details">
+                                    <div class="wpem-event-title">
+                                        <h3 class="wpem-heading-text">Oser le changement : le cas CHWAPI Belgique</h3>
+                                    </div>
+
+                                                                            <div class="wpem-event-organizer">
+                                            <div class="wpem-event-organizer-name">
+                                                                                                 par auteur par <a href="https://www.ja-sante.fr/event-organizer/thierry-courbis/">Thierry COURBIS</a>, <a href="https://www.ja-sante.fr/event-organizer/didier-delval/">Didier DELVAL</a>, <a href="https://www.ja-sante.fr/event-organizer/laurent-grisay/">Laurent GRISAY</a>                                                                                            </div>
+                                        </div>
+                                    
+                                                                            
+                                        <div class="wpem-viewed-event wpem-tooltip wpem-tooltip-bottom"><i class="wpem-icon-eye"></i> 1506                                        
+                                            <span class="wpem-tooltiptext">1506 vues.</span>
+                                        </div>                                        
+                                    
+                                    
+                                                                    </div>
+                            </div>
+
+                            
+                            <div class="wpem-single-event-body-content">
+                                                                <p><!-- wp:image {"id":4548,"sizeSlug":"medium","linkDestination":"none"} --></p>
+<figure class="wp-block-image size-medium"><img src="https://www.ja-sante.fr/wp-content/uploads/2021/05/LOGO_CHwapi-300x115.png" alt="" class="wp-image-4548"/></figure>
+<p><!-- /wp:image --></p>
+<p><!-- wp:paragraph --></p>
+<p><strong>Oser la Transformation Digitale et Robotique durant une construction en cours.</strong></p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>La construction sur un site unique des 3 hôpitaux qui composent le CHWAPI (Centre Hospitalier de Wallonie Picarde) est un projet engagé depuis plusieurs années, avec une livraison partielle déjà effectué (Phase 1). La phase 2 en cours vise à terminer l’opération.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>En tant que Directeur Général, en charge de la finalisation de cette opération j’ai souhaité vérifier que l’innovation était suffisamment embarquée dans le projet pour faire face aux challenges de demain et satisfaire nos patients et collaborateurs.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>J’aborderai d’abord pourquoi ce choix de direction en pleine période de pandémie et alors que 50% de notre projet était déjà reconstruit.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Ensuite je communiquerai sur comment nous avons fait pour poser un diagnostic et en faire un élément de décision. La présence à mes côtés de la société Leader Health permettra de commenter la méthode qui s’est déroulée dans un délai court et perturbé par la gestion de la crise sanitaire. L’utilisation de technologies modernes (Blended Meeting, Visio Conferencing, podcast et vidéos en ligne) a permis de toucher de nombreux utilisateurs et réussir notre pari.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>La réaction des équipes internes et des partenaires notamment l’architecte et la maitrise d’oeuvre sera présentée, en insistant sur les difficultés posées par certaines remises en cause. La présence à mes côtés de Laurent Grisay d’archipelago pourra apporter une information complémentaire. Plusieurs sujets, relatifs notamment aux transports automatisés, la robotisation des flux et l’évacuation sous vide des déchets nous ont posé des problèmes d’implantation et de coordination avec la Phase 1 existante.</p>
+<p><!-- /wp:paragraph --></p>
+<p><!-- wp:paragraph --></p>
+<p>Enfin j’évoquerai la valeur ajoutée que j’attends de cette remise en cause, de point de vue de l’efficience générale et de la meilleure adaptabilité du bâtiment aux enjeux de demain. L’objectif de ma présentation est de montrer aux professionnels de l’hôpital, des cliniques mais également des maitrises d’oeuvre qu’on peut toujours améliorer un projet, jusqu’au jour de l’inauguration définitive si une vraie valeur ajoutée se dégage d’une perspective laissée de côté lors des phases souvent anciennes de définition de besoins ou de programmes.</p>
+<p><!-- /wp:paragraph --></p>
+                                                            </div>
+
+                            <!-- Additional Info Block Start -->
+                            
+                            
+                            <!-- Additional Info Block End  -->
+
+                            
+                        </div>
+                        <div class="wpem-col-xs-12 wpem-col-sm-5 wpem-col-md-4 wpem-single-event-right-content">
+                            <div class="wpem-single-event-body-sidebar">
+                                
+                                	<div class="event_registration registration">
+				<div class="wpem-event-sidebar-button wpem-registration-event-button">
+		<button type="button" class="registration_button wpem-theme-button" value="inscription à l’événement" >inscription à l’événement</button>
+		</div>
+		<div class="registration_details wpem-register-event-form wpem-form-wrapper">
+			<p>Pour vous inscrire à ce cette conférence, envoyez <strong> vos informations par e-mail à </strong> <a class="event_registration_email" href="mailto:j&#97;-sa&#110;t&#101;&#64;&#111;&#114;a&#110;&#103;e&#46;&#102;&#114;?subject=Registration%20via%20%22Oser%20le%20changement%20%3A%20le%20cas%20CHWAPI%20Belgique%22%20listing%20on%20https%3A%2F%2Fwww.ja-sante.fr">j&#97;-sa&#110;t&#101;&#64;&#111;&#114;a&#110;&#103;e&#46;&#102;&#114; </a>.</p>
+
+<p>
+	Inscrivez-vous via le webmail :
+	<a href="https://mail.google.com/mail/?view=cm&fs=1&to=j&#97;-sa&#110;t&#101;&#64;&#111;&#114;a&#110;&#103;e&#46;&#102;&#114;&su=Registration+via+%22Oser+le+changement+%3A+le+cas+CHWAPI+Belgique%22+listing+on+https%3A%2F%2Fwww.ja-sante.fr" target="_blank" class="event_registration_email">Gmail</a> / 
+	
+	<a href="http://webmail.aol.com/Mail/ComposeMessage.aspx?to=j&#97;-sa&#110;t&#101;&#64;&#111;&#114;a&#110;&#103;e&#46;&#102;&#114;&subject=Registration+via+%22Oser+le+changement+%3A+le+cas+CHWAPI+Belgique%22+listing+on+https%3A%2F%2Fwww.ja-sante.fr" target="_blank" class="event_registration_email">AOL</a> / 
+	
+	<a href="http://compose.mail.yahoo.com/?to=j&#97;-sa&#110;t&#101;&#64;&#111;&#114;a&#110;&#103;e&#46;&#102;&#114;&subject=Registration+via+%22Oser+le+changement+%3A+le+cas+CHWAPI+Belgique%22+listing+on+https%3A%2F%2Fwww.ja-sante.fr" target="_blank" class="event_registration_email">Yahoo</a> / 
+	
+	<a href="https://outlook.live.com/mail/0/deeplink/compose?to=j&#97;-sa&#110;t&#101;&#64;&#111;&#114;a&#110;&#103;e&#46;&#102;&#114;&subject=Registration+via+%22Oser+le+changement+%3A+le+cas+CHWAPI+Belgique%22+listing+on+https%3A%2F%2Fwww.ja-sante.fr" target="_blank" class="event_registration_email">Outlook</a>
+
+</p>		</div>
+			</div>
+	
+                                
+                                <div class="wpem-single-event-sidebar-info">
+
+                                                                        <div class="clearfix">&nbsp;</div>
+                                    <h3 class="wpem-heading-text">Date et heure</h3>
+                                    <div class="wpem-event-date-time" >
+                                        <span class="wpem-event-date-time-text">19-10-2021 / 10:20</span>
+                                        à                                        <br/>
+                                        <span class="wpem-event-date-time-text">
+                                            19-10-2021 / 10:40                                        </span>
+                                    </div>
+
+                                    <!-- Event Registration End Date start-->
+                                                                        
+                                    <!-- Registration End Date End-->
+
+                                    <div>
+                                        <div class="clearfix">&nbsp;</div>
+                                        <h3 class="wpem-heading-text">Emplacement</h3>
+                                        <div>
+                                             
+                                            <a  href="http://maps.google.com/maps?q=Th%C3%A9atre+-+Palais+de+l%27Europe+Menton&zoom=14&size=512x512&maptype=roadmap&sensor=false" target="_blank">Théatre - Palais de l'Europe Menton</a>                                        </div>
+                                    </div>
+
+                                                                            <div class="clearfix">&nbsp;</div>
+                                        <h3 class="wpem-heading-text">Types de Sessions</h3>
+                                        <div class="wpem-event-type"><a href="https://www.ja-sante.fr/event_listing_type/conference/"><span class="wpem-event-type-text event-type conference ">Conférence</span></a></div>
+                                    
+                                                                            <div class="clearfix">&nbsp;</div>
+                                        <h3 class="wpem-heading-text">Thématique</h3>
+                                        <div class="wpem-event-category"><a href="https://www.ja-sante.fr/event_listing_category/international/"><span class="wpem-event-category-text event-category international ">International</span></a></div>
+                                    
+                                    
+                                    
+                                </div>
+
+                                                                    <h3 class="wpem-heading-text">Partager</h3>
+                                    <div class="wpem-share-this-event">
+                                        <div class="wpem-event-share-lists">
+                                                                                        <div class="wpem-social-icon wpem-facebook">
+                                                <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.ja-sante.fr/événement/oser-le-changement-le-cas-chwapi-belgique/"
+                                                   title="Share this page on Facebook">Facebook</a>
+                                            </div>
+                                            <div class="wpem-social-icon wpem-twitter">
+                                                <a href="https://twitter.com/share?text=twitter&url=https://www.ja-sante.fr/événement/oser-le-changement-le-cas-chwapi-belgique/"
+                                                   title="Share this page on Twitter">Twitter</a>
+                                            </div>
+                                            <div class="wpem-social-icon wpem-linkedin">
+                                                <a href="https://www.linkedin.com/sharing/share-offsite/?&url=https://www.ja-sante.fr/événement/oser-le-changement-le-cas-chwapi-belgique/"
+                                                   title="Share this page on Linkedin">Linkedin</a>
+                                            </div>
+                                            <div class="wpem-social-icon wpem-xing">
+                                                <a href="https://www.xing.com/spi/shares/new?url=https://www.ja-sante.fr/événement/oser-le-changement-le-cas-chwapi-belgique/"
+                                                   title="Share this page on Xing">Xing</a>
+                                            </div>
+                                            <div class="wpem-social-icon wpem-pinterest">
+                                                <a href="https://pinterest.com/pin/create/button/?url=https://www.ja-sante.fr/événement/oser-le-changement-le-cas-chwapi-belgique/"
+                                                   title="Share this page on Pinterest">Pinterest</a>
+                                            </div>
+                                                                                    </div>
+                                    </div>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                
+
+
+    <div class="wpem-single-event-footer" itemscope itemtype="http://data-vocabulary.org/Organization">
+        <div class="wpem-row">
+            <div class="wpem-col-md-12">
+                <div class="wpem-organizer-profile-wrapper" id="wpem_organizer_profile">
+
+                    
+                    <div class="wpem-listing-accordion active">
+                        <h3 class="wpem-heading-text">Conférencier(s)</h3>
+                                                    <i class="wpem-icon-minus"></i><i class="wpem-icon-plus"></i>
+                                            </div>
+
+                    <div class="wpem-organizer-wrapper wpem-listing-accordion-panel active" style="display: block;">
+                        <div class="wpem-organizer-profile">
+
+                            
+                            
+                                                            
+                                    <div class="wpem-organizer-inner-wrapper">
+                                        <div class="wpem-row">
+
+                                            <div class="wpem-col-md-3 wpem-col-sm-12">
+                                                <div class="wpem-organizer-logo-wrapper">
+                                                    <div class="wpem-organizer-logo"><a><img class="organizer_logo" src="https://www.ja-sante.fr/wp-content/uploads/2021/05/leader-health.jpg" alt="Thierry COURBIS" /></a></div>
+                                                </div>
+                                            </div>
+
+                                            <div class="wpem-col-md-9 wpem-col-sm-12">
+                                                <div class="wpem-organizer-name wpem-heading-text"><span>Thierry COURBIS</span></div>
+
+                                                
+                                                <div class="wpem-organizer-short-info"><img class="alignnone wp-image-4659 size-medium" src="https://www.ja-sante.fr/wp-content/uploads/2021/06/Courbis-242x300.jpg" alt="" width="242" height="300" />
+<h5>Directeur Général LEADER HEALTH</h5></div>
+                                    
+                                                
+                                                <div class="wpem-organizer-social-links">
+                                                    <div class="wpem-organizer-social-lists">
+                                                                                                                                                                        
+                                                        
+                                                    </div>                                    
+                                            
+                                                </div>
+
+                                                <div class="wpem-organizer-contact-actions">
+                                                    <div class="wpem-organizer-page-url-button"><a href="https://www.ja-sante.fr/event-organizer/thierry-courbis/" class="wpem-theme-button"><span>En savoir plus</span></a></div>
+                                                                                                    </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                
+                                    <div class="wpem-organizer-inner-wrapper">
+                                        <div class="wpem-row">
+
+                                            <div class="wpem-col-md-3 wpem-col-sm-12">
+                                                <div class="wpem-organizer-logo-wrapper">
+                                                    <div class="wpem-organizer-logo"><a><img class="organizer_logo" src="https://www.ja-sante.fr/wp-content/uploads/2021/05/LOGO_CHwapi.png" alt="Didier DELVAL" /></a></div>
+                                                </div>
+                                            </div>
+
+                                            <div class="wpem-col-md-9 wpem-col-sm-12">
+                                                <div class="wpem-organizer-name wpem-heading-text"><span>Didier DELVAL</span></div>
+
+                                                
+                                                <div class="wpem-organizer-short-info">&nbsp;
+
+<img class="alignnone size-medium wp-image-6184" src="https://www.ja-sante.fr/wp-content/uploads/2021/05/D-DELVAL-300x300.jpg" alt="" width="300" height="300" />
+<h5>Directeur Général du CHWAPI</h5></div>
+                                    
+                                                
+                                                <div class="wpem-organizer-social-links">
+                                                    <div class="wpem-organizer-social-lists">
+                                                                                                                                                                        
+                                                        
+                                                    </div>                                    
+                                            
+                                                </div>
+
+                                                <div class="wpem-organizer-contact-actions">
+                                                    <div class="wpem-organizer-page-url-button"><a href="https://www.ja-sante.fr/event-organizer/didier-delval/" class="wpem-theme-button"><span>En savoir plus</span></a></div>
+                                                                                                    </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                
+                                    <div class="wpem-organizer-inner-wrapper">
+                                        <div class="wpem-row">
+
+                                            <div class="wpem-col-md-3 wpem-col-sm-12">
+                                                <div class="wpem-organizer-logo-wrapper">
+                                                    <div class="wpem-organizer-logo"><a><img class="organizer_logo" src="https://www.ja-sante.fr/wp-content/uploads/2021/06/571013archipelago.jpg" alt="Laurent GRISAY" /></a></div>
+                                                </div>
+                                            </div>
+
+                                            <div class="wpem-col-md-9 wpem-col-sm-12">
+                                                <div class="wpem-organizer-name wpem-heading-text"><span>Laurent GRISAY</span></div>
+
+                                                
+                                                <div class="wpem-organizer-short-info"><img class="alignnone wp-image-8140 size-thumbnail" src="https://www.ja-sante.fr/wp-content/uploads/2021/05/Laurent_Grisay-150x150.jpg" alt="" width="150" height="150" />
+
+&nbsp;
+<h5>Président archipelago Bruxelles</h5></div>
+                                    
+                                                
+                                                <div class="wpem-organizer-social-links">
+                                                    <div class="wpem-organizer-social-lists">
+                                                                                                                                                                        
+                                                        
+                                                    </div>                                    
+                                            
+                                                </div>
+
+                                                <div class="wpem-organizer-contact-actions">
+                                                    <div class="wpem-organizer-page-url-button"><a href="https://www.ja-sante.fr/event-organizer/laurent-grisay/" class="wpem-theme-button"><span>En savoir plus</span></a></div>
+                                                                                                    </div>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+
+                                                            
+                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+            
+            </div>
+            <!-- / wpem-wrapper end  -->            
+                <!-- Main if condition end -->
+    </div>
+    <!-- / wpem-main end  -->
+</div>
+<!-- override the script if needed -->
+
+<script type="text/javascript">
+    jQuery(document).ready(function ()
+    {
+        jQuery('.wpem-single-event-slider').slick({
+            dots: true,
+            infinite: true,
+            speed: 500,
+            fade: true,
+            cssEase: 'linear',
+            adaptiveHeight: true,
+            responsive: [{
+                    breakpoint: 992,
+                    settings: {
+                        dots: true,
+                        infinite: true,
+                        speed: 500,
+                        fade: true,
+                        cssEase: 'linear',
+                        adaptiveHeight: true
+                    }
+                }]
+        });
+
+
+    /* Get iframe src attribute value i.e. YouTube video url
+    and store it in a variable */
+    var url = jQuery("#wpem-youtube-modal-popup .wpem-modal-content iframe").attr('src');
+    
+    /* Assign empty url value to the iframe src attribute when
+    modal hide, which stop the video playing */
+    jQuery(".wpem-modal-close").on('click', function(){
+        jQuery("#wpem-youtube-modal-popup .wpem-modal-content iframe").attr('src', '');
+    });
+    
+    /* Assign the initially stored url back to the iframe src
+    attribute when modal is displayed again */
+    jQuery("#event-youtube-button").on('click', function(){
+        jQuery("#wpem-youtube-modal-popup .wpem-modal-content iframe").attr('src', url);
+    });
+
+
+
+    });
+</script>
+		<div class="post-tags">
+					</div>
+			</div>
+
+	<section id="comments" class="comments-area">
+
+	
+
+
+</section><!-- .comments-area -->
+</main>
+
+	
+		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="75" class="elementor elementor-75" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-74ade20 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="74ade20" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4e3c865" data-id="4e3c865" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-inner-section elementor-element elementor-element-526355f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="526355f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f4a8b7a" data-id="f4a8b7a" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5c26598 elementor-widget elementor-widget-heading" data-id="5c26598" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Retrouvez également les Journées de l'Architecture en Santé en Belgique et au Canada</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3ab71c7 elementor-widget elementor-widget-text-editor" data-id="3ab71c7" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p><img class="emoji" role="img" draggable="false" src="https://s.w.org/images/core/emoji/13.0.1/svg/1f1e7-1f1ea.svg" alt="🇧🇪" /> Rendez-vous à Bruxelles les 23 et 24 mars 2027</p><p>🇨🇦 Rendez-vous à Montréal les 8 et 9 juin 2027</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-13af7c6 elementor-widget elementor-widget-button" data-id="13af7c6" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://www.ja-sante.com/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Visitez le site www.ja-sante.com</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1b578ac" data-id="1b578ac" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ba93e4b elementor-widget elementor-widget-heading" data-id="ba93e4b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Réseaux sociaux</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-efb2172 elementor-widget elementor-widget-text-editor" data-id="efb2172" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Vous pouvez nous contacter à tout instant via nos réseaux sociaux et vos tenir au courant de notre actualité. </p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-0967b9e e-grid-align-left elementor-shape-rounded elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="0967b9e" data-element_type="widget" data-widget_type="social-icons.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-social-icons-wrapper elementor-grid">
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-linkedin elementor-animation-grow elementor-repeater-item-ed6ea09" href="https://www.linkedin.com/company/journeesdelarchiectureensante/" target="_blank">
+						<span class="elementor-screen-only">Linkedin</span>
+						<i class="fab fa-linkedin"></i>					</a>
+				</div>
+							<div class="elementor-grid-item">
+					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-grow elementor-repeater-item-16a6cc6" href="https://www.youtube.com/@journeesdelarchitectureensante" target="_blank">
+						<span class="elementor-screen-only">Youtube</span>
+						<i class="fab fa-youtube"></i>					</a>
+				</div>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9b3170c" data-id="9b3170c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-7bad945 elementor-widget elementor-widget-heading" data-id="7bad945" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Contacts</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4125535 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4125535" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+										<span class="elementor-icon-list-text">+33 (0)9 66 98 43 11</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">SAS H Event :<br>30 Avenue des Avoraux 69250 Albigny-sur-Saône FRANCE</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-8756f84 elementor-widget elementor-widget-button" data-id="8756f84" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aopen%26settings%3DeyJpZCI6IjQxODUiLCJ0b2dnbGUiOmZhbHNlfQ%3D%3D" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Contactez-nous</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-ba8392c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ba8392c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-bc535c6" data-id="bc535c6" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5484e3a orange elementor-widget elementor-widget-text-editor" data-id="5484e3a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					©H EVENT &#8211; Tous les droits sont réservés | <a href="https://www.ja-sante.fr/conditions-generales-de-ventes/" style="color:#fff">Conditions Générales de Ventes</a> | <a href="https://www.ja-sante.fr/mentions-legales-politique-de-confidentialite/" target="_blank" rel="noopener" style="color:#fff">Mentions légales</a>					</div>
+						</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		</div>		</footer>
+	</div><!-- #page -->
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">Nous utilisons des cookies sur notre site Web pour vous offrir la meilleure expérience de navigation. En cliquant sur «Accepter», vous consentez à l'utilisation de tous les cookies installés sur ce site (Google Ananlytics)</div><div class="cli-bar-btn_container"><a role='button' tabindex='0' class="cli_settings_button" style="margin:0px 10px 0px 5px;" >Réglages</a><a role='button' tabindex='0' data-cli_action="accept" id="cookie_action_close_header"  class="medium cli-plugin-button cli-plugin-main-button cookie_action_close_header cli_action_button" style="display:inline-block; ">ACCEPTER</a></div><br />
+<div class="cli-bar-btn_container"><a href='https://www.ja-sante.fr/mentions-legales-politique-de-confidentialite/' id="CONSTANT_OPEN_URL" target="_blank"  class="cli-plugin-main-link"  style="display:inline-block; margin:0px 10px 0px 5px; " >En savoir plus</a><a role='button' tabindex='0' id="cookie_action_close_header_reject"  class="cookie_action_close_header_reject cli_action_button"   data-cli_action="reject">REFUSER</a></div></div></span></div><div id="cookie-law-info-again" style="display:none;" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+  <div class="cli-modal-dialog" role="document">
+	<div class="cli-modal-content cli-bar-popup">
+	  	<button type="button" class="cli-modal-close" id="cliModalClose">
+			<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"></path><path d="M0 0h24v24h-24z" fill="none"></path></svg>
+			<span class="wt-cli-sr-only">Fermer</span>
+	  	</button>
+	  	<div class="cli-modal-body">
+			<div class="cli-container-fluid cli-tab-container">
+	<div class="cli-row">
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+			<div class="cli-privacy-overview">
+				<h4>Privacy Overview</h4>				<div class="cli-privacy-content">
+					<div class="cli-privacy-content-text">This website uses cookies to improve your experience while you navigate through the website. Out of these, the cookies that are categorized as necessary are stored on your browser as they are essential for the working of basic functionalities of the website. We also use third-party cookies that help us analyze and understand how you use this website. These cookies will be stored in your browser only with your consent. You also have the option to opt-out of these cookies. But opting out of some of these cookies may affect your browsing experience.</div>
+				</div>
+				<a class="cli-privacy-readmore"  aria-label="Afficher plus" tabindex="0" role="button" data-readmore-text="Afficher plus" data-readless-text="Afficher moins"></a>			</div>
+		</div>
+		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
+												<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
+								Necessary							</a>
+							<div class="wt-cli-necessary-checkbox">
+                        <input type="checkbox" class="cli-user-preference-checkbox"  id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked"  />
+                        <label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
+                    </div>
+                    <span class="cli-necessary-caption">Toujours activé</span> 						</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="necessary">
+								<p>Necessary cookies are absolutely essential for the website to function properly. These cookies ensure basic functionalities and security features of the website, anonymously.
+<table class="cookielawinfo-row-cat-table cookielawinfo-winter"><thead><tr><th class="cookielawinfo-column-1">Cookie</th><th class="cookielawinfo-column-3">Durée</th><th class="cookielawinfo-column-4">Description</th></tr></thead><tbody><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-analytics</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Analytics".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-functional</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by GDPR cookie consent to record the user consent for the cookies in the category "Functional".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checbox-others</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Other.</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-necessary</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookies is used to store the user consent for the cookies in the category "Necessary".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">cookielawinfo-checkbox-performance</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">This cookie is set by GDPR Cookie Consent plugin. The cookie is used to store the user consent for the cookies in the category "Performance".</td></tr><tr class="cookielawinfo-row"><td class="cookielawinfo-column-1">viewed_cookie_policy</td><td class="cookielawinfo-column-3">11 months</td><td class="cookielawinfo-column-4">The cookie is set by the GDPR Cookie Consent plugin and is used to store whether or not user has consented to the use of cookies. It does not store any personal data.</td></tr></tbody></table></p>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
+								Functional							</a>
+							<div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox"  data-id="checkbox-functional"  />
+                        <label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Activé" data-cli-disable="Désactivé"><span class="wt-cli-sr-only">Functional</span></label>
+                    </div>						</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="functional">
+								<p>Functional cookies help to perform certain functionalities like sharing the content of the website on social media platforms, collect feedbacks, and other third-party features.
+</p>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
+								Performance							</a>
+							<div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox"  data-id="checkbox-performance"  />
+                        <label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Activé" data-cli-disable="Désactivé"><span class="wt-cli-sr-only">Performance</span></label>
+                    </div>						</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="performance">
+								<p>Performance cookies are used to understand and analyze the key performance indexes of the website which helps in delivering a better user experience for the visitors.
+</p>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
+								Analytics							</a>
+							<div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox"  data-id="checkbox-analytics"  />
+                        <label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Activé" data-cli-disable="Désactivé"><span class="wt-cli-sr-only">Analytics</span></label>
+                    </div>						</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="analytics">
+								<p>Analytical cookies are used to understand how visitors interact with the website. These cookies help provide information on metrics the number of visitors, bounce rate, traffic source, etc.
+</p>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
+								Advertisement							</a>
+							<div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox"  data-id="checkbox-advertisement"  />
+                        <label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Activé" data-cli-disable="Désactivé"><span class="wt-cli-sr-only">Advertisement</span></label>
+                    </div>						</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="advertisement">
+								<p>Advertisement cookies are used to provide visitors with relevant ads and marketing campaigns. These cookies track visitors across websites and collect information to provide customized ads.
+</p>
+							</div>
+						</div>
+					</div>
+																	<div class="cli-tab-section">
+						<div class="cli-tab-header">
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
+								Others							</a>
+							<div class="cli-switch">
+                        <input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox"  data-id="checkbox-others"  />
+                        <label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Activé" data-cli-disable="Désactivé"><span class="wt-cli-sr-only">Others</span></label>
+                    </div>						</div>
+						<div class="cli-tab-content">
+							<div class="cli-tab-pane cli-fade" data-id="others">
+								<p>Other uncategorized cookies are those that are being analyzed and have not been classified into a category as yet.
+</p>
+							</div>
+						</div>
+					</div>
+										</div>
+	</div>
+</div>
+	  	</div>
+	  	<div class="cli-modal-footer">
+			<div class="wt-cli-element cli-container-fluid cli-tab-container">
+				<div class="cli-row">
+					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
+						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
+						
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">Enregistrer & accepter</a>
+													</div>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</div>
+<div class="cli-modal-backdrop cli-fade cli-settings-overlay"></div>
+<div class="cli-modal-backdrop cli-fade cli-popupbar-overlay"></div>
+<!--googleon: all--><script type="application/ld+json">{"@context":"http:\/\/schema.org\/","@type":"Event","description":"<p><!-- wp:image {\"id\":4548,\"sizeSlug\":\"medium\",\"linkDestination\":\"none\"} --><\/p>\n<figure class=\"wp-block-image size-medium\"><img src=\"https:\/\/www.ja-sante.fr\/wp-content\/uploads\/2021\/05\/LOGO_CHwapi-300x115.png\" alt=\"\" class=\"wp-image-4548\"\/><\/figure>\n<p><!-- \/wp:image --><\/p>\n<p><!-- wp:paragraph --><\/p>\n<p><strong>Oser la Transformation Digitale et Robotique durant une construction en cours.<\/strong><\/p>\n<p><!-- \/wp:paragraph --><\/p>\n<p><!-- wp:paragraph --><\/p>\n<p>La construction sur un site unique des 3 h\u00f4pitaux qui composent le CHWAPI (Centre Hospitalier de Wallonie Picarde) est un projet engag\u00e9 depuis plusieurs ann\u00e9es, avec une livraison partielle d\u00e9j\u00e0 effectu\u00e9 (Phase 1). La phase 2 en cours vise \u00e0 terminer l\u2019op\u00e9ration.<\/p>\n<p><!-- \/wp:paragraph --><\/p>\n<p><!-- wp:paragraph --><\/p>\n<p>En tant que Directeur G\u00e9n\u00e9ral, en charge de la finalisation de cette op\u00e9ration j\u2019ai souhait\u00e9 v\u00e9rifier que l\u2019innovation \u00e9tait suffisamment embarqu\u00e9e dans le projet pour faire face aux challenges de demain et satisfaire nos patients et collaborateurs.<\/p>\n<p><!-- \/wp:paragraph --><\/p>\n<p><!-- wp:paragraph --><\/p>\n<p>J\u2019aborderai d\u2019abord pourquoi ce choix de direction en pleine p\u00e9riode de pand\u00e9mie et alors que 50% de notre projet \u00e9tait d\u00e9j\u00e0 reconstruit.<\/p>\n<p><!-- \/wp:paragraph --><\/p>\n<p><!-- wp:paragraph --><\/p>\n<p>Ensuite je communiquerai sur comment nous avons fait pour poser un diagnostic et en faire un \u00e9l\u00e9ment de d\u00e9cision. La pr\u00e9sence \u00e0 mes c\u00f4t\u00e9s de la soci\u00e9t\u00e9 Leader Health permettra de commenter la m\u00e9thode qui s\u2019est d\u00e9roul\u00e9e dans un d\u00e9lai court et perturb\u00e9 par la gestion de la crise sanitaire. L\u2019utilisation de technologies modernes (Blended Meeting, Visio Conferencing, podcast et vid\u00e9os en ligne) a permis de toucher de nombreux utilisateurs et r\u00e9ussir notre pari.<\/p>\n<p><!-- \/wp:paragraph --><\/p>\n<p><!-- wp:paragraph --><\/p>\n<p>La r\u00e9action des \u00e9quipes internes et des partenaires notamment l\u2019architecte et la maitrise d\u2019oeuvre sera pr\u00e9sent\u00e9e, en insistant sur les difficult\u00e9s pos\u00e9es par certaines remises en cause. La pr\u00e9sence \u00e0 mes c\u00f4t\u00e9s de Laurent Grisay d\u2019archipelago pourra apporter une information compl\u00e9mentaire. Plusieurs sujets, relatifs notamment aux transports automatis\u00e9s, la robotisation des flux et l\u2019\u00e9vacuation sous vide des d\u00e9chets nous ont pos\u00e9 des probl\u00e8mes d\u2019implantation et de coordination avec la Phase 1 existante.<\/p>\n<p><!-- \/wp:paragraph --><\/p>\n<p><!-- wp:paragraph --><\/p>\n<p>Enfin j\u2019\u00e9voquerai la valeur ajout\u00e9e que j\u2019attends de cette remise en cause, de point de vue de l\u2019efficience g\u00e9n\u00e9rale et de la meilleure adaptabilit\u00e9 du b\u00e2timent aux enjeux de demain. L\u2019objectif de ma pr\u00e9sentation est de montrer aux professionnels de l\u2019h\u00f4pital, des cliniques mais \u00e9galement des maitrises d\u2019oeuvre qu\u2019on peut toujours am\u00e9liorer un projet, jusqu\u2019au jour de l\u2019inauguration d\u00e9finitive si une vraie valeur ajout\u00e9e se d\u00e9gage d\u2019une perspective laiss\u00e9e de c\u00f4t\u00e9 lors des phases souvent anciennes de d\u00e9finition de besoins ou de programmes.<\/p>\n<p><!-- \/wp:paragraph --><\/p>\n","name":"Oser le changement : le cas CHWAPI Belgique","image":"https:\/\/www.ja-sante.fr\/wp-content\/uploads\/2021\/05\/Conference-TH-3.jpg","startDate":"2021-10-19 10:20:00","endDate":"2021-10-19 10:40:00","performer":"Thierry COURBIS, Didier DELVAL, Laurent GRISAY","eventAttendanceMode":"offline","eventStatus":"EventScheduled","Organizer":{"@type":"Organization","name":"Thierry COURBIS, Didier DELVAL, Laurent GRISAY"},"Location":{"@type":"Place","name":"Th\u00e9atre - Palais de l'Europe Menton","address":"Th\u00e9atre - Palais de l'Europe Menton"}}</script><div id="pwaforwp-add-to-home-click" style="background-color:#ff8300" class="pwaforwp-footer-prompt pwaforwp-bounceInUp pwaforwp-animated"> <span id="pwaforwp-prompt-close" class="pwaforwp-prompt-close"></span><h3 style="color:#ffffff">Installer JA Santé sur mon appareil</h3><div style="background-color:#ffffff; color:#ff8300" class="pwaforwp-btn pwaforwp-btn-add-to-home">Ajouter</div></div>		<div data-elementor-type="popup" data-elementor-id="4185" class="elementor elementor-4185 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeInRight&quot;,&quot;exit_animation&quot;:&quot;fadeInRight&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1999999999999999555910790149937383830547332763671875,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+		<div class="elementor-section-wrap">
+					<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-18d01ad4 elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="18d01ad4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-26892f08" data-id="26892f08" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-77dc8d68 elementor-align-right elementor-widget elementor-widget-button" data-id="77dc8d68" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<svg xmlns="http://www.w3.org/2000/svg" id="ea6a9e06-6025-4f7d-a165-10c226026855" data-name="Layer 1" width="21.2133" height="21.2133" viewBox="0 0 21.2133 21.2133"><title>CloseMenu</title><path d="M12.728,10.6066l8.4853,8.4853-2.1214,2.1214L10.6066,12.728,2.1213,21.2133,0,19.0919l8.4853-8.4853L0,2.1213,2.1213,0l8.4853,8.4853L19.0919,0l2.1214,2.1213Z" style="fill-rule:evenodd"></path></svg>			</span>
+						<span class="elementor-button-text"></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-172302af" data-id="172302af" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-d583ce1 elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="d583ce1" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;pause_on_interaction&quot;:&quot;no&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.ja-sante.fr/wp-content/uploads/2021/05/AdobeStock_62029992_e2f9c0d8-f59f-4de0-a818-f4f1a58a8464-min-scaled-1.jpeg" alt="AdobeStock_62029992_e2f9c0d8-f59f-4de0-a818-f4f1a58a8464-min-scaled.jpeg" /></figure></div>			</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-41510788 elementor-widget elementor-widget-heading" data-id="41510788" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Vous souhaitez nous contacter pour obtenir des informations complémentaires ?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-975d4ba elementor-widget elementor-widget-text-editor" data-id="975d4ba" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Merci de remplir le formulaire ci-dessous, notre équipe vous répondra dans les plus brefs délais :</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-1e40fc9d elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="1e40fc9d" data-element_type="widget" data-settings="{&quot;button_width_tablet&quot;:&quot;100&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="PopUp Form">
+			<input type="hidden" name="post_id" value="4185"/>
+			<input type="hidden" name="form_id" value="1e40fc9d"/>
+			<input type="hidden" name="referer_title" value="Oser le changement : le cas CHWAPI Belgique | JA Santé" />
+
+							<input type="hidden" name="queried_id" value="4607"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-entreprise elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-entreprise" class="elementor-field-label elementor-screen-only">Raison sociale</label><input size="1" type="text" name="form_fields[entreprise]" id="form-field-entreprise" class="elementor-field elementor-size-xs  elementor-field-textual" placeholder="Raison sociale" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_f5ed400 elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_f5ed400" class="elementor-field-label elementor-screen-only">Nom</label><input size="1" type="text" name="form_fields[field_f5ed400]" id="form-field-field_f5ed400" class="elementor-field elementor-size-xs  elementor-field-textual" placeholder="Votre Nom" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-field_cf17f0c elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_cf17f0c" class="elementor-field-label elementor-screen-only">Email</label><input size="1" type="email" name="form_fields[field_cf17f0c]" id="form-field-field_cf17f0c" class="elementor-field elementor-size-xs  elementor-field-textual" placeholder="Votre email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_55313b9 elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_55313b9" class="elementor-field-label elementor-screen-only">Téléphone</label><input size="1" type="tel" name="form_fields[field_55313b9]" id="form-field-field_55313b9" class="elementor-field elementor-size-xs  elementor-field-textual" placeholder="Votre téléphone" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Seuls les caractères de numéros de téléphone (#, -, *, etc.) sont acceptés.">				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_ea6b539 elementor-col-100 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_ea6b539" class="elementor-field-label elementor-screen-only">Message</label><textarea class="elementor-field-textual elementor-field  elementor-size-xs" name="form_fields[field_ea6b539]" id="form-field-field_ea6b539" rows="4" placeholder="Votre message" required="required" aria-required="true"></textarea>				</div>
+								<div class="elementor-field-type-acceptance elementor-field-group elementor-column elementor-field-group-field_1c95e4e elementor-col-100 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_1c95e4e" class="elementor-field-label elementor-screen-only">rgpd</label><div class="elementor-field-subgroup"><span class="elementor-field-option"><input type="checkbox" name="form_fields[field_1c95e4e]" id="form-field-field_1c95e4e" class="elementor-field elementor-size-xs  elementor-acceptance-field" required="required" aria-required="true"> <label for="form-field-field_1c95e4e">En soumettant ce formulaire, j'accepte que les informations saisies soit utilisées pour me recontacter et dans la relation commerciale qui peut en découler.</label></span></div>				</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_1a65090 elementor-col-100">
+					<!-- Cloudflare Turnstile -->
+<div 
+  class="cf-turnstile"
+  data-sitekey="0x4AAAAAADUMKaFVVmNC9cYO"
+  data-theme="auto"
+  data-appearance="always">
+</div>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons elementor-md-100">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Envoyer votre demande</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				<div data-elementor-type="popup" data-elementor-id="6698" class="elementor elementor-6698 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeInRight&quot;,&quot;exit_animation&quot;:&quot;fadeInRight&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1999999999999999555910790149937383830547332763671875,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+		<div class="elementor-section-wrap">
+					<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-2d14c68a elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="2d14c68a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5792db08" data-id="5792db08" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4d559d82 elementor-align-right elementor-widget elementor-widget-button" data-id="4d559d82" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<svg xmlns="http://www.w3.org/2000/svg" id="ea6a9e06-6025-4f7d-a165-10c226026855" data-name="Layer 1" width="21.2133" height="21.2133" viewBox="0 0 21.2133 21.2133"><title>CloseMenu</title><path d="M12.728,10.6066l8.4853,8.4853-2.1214,2.1214L10.6066,12.728,2.1213,21.2133,0,19.0919l8.4853-8.4853L0,2.1213,2.1213,0l8.4853,8.4853L19.0919,0l2.1214,2.1213Z" style="fill-rule:evenodd"></path></svg>			</span>
+						<span class="elementor-button-text"></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-65419f0e" data-id="65419f0e" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2d2fe470 elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="2d2fe470" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;pause_on_interaction&quot;:&quot;no&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.ja-sante.fr/wp-content/uploads/2021/01/Fotolia_7935100_M1_f46ba7ae-7a55-4775-9723-36b17a91122d.jpg" alt="vue sur monaco la nuit" /></figure></div>			</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5a2bcc99 elementor-widget elementor-widget-heading" data-id="5a2bcc99" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Demande de réservation pour le Dîner de Gala de l'UAFS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2c0f85bf elementor-widget elementor-widget-text-editor" data-id="2c0f85bf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Merci de remplir le formulaire ci-dessous, notre équipe vous répondra dans les plus brefs délais.  </p><p>Attention, en raison du nombre de places très limitées, cette demande de réservation ne peut vous garantir une place au dîner de gala de l&rsquo;UAFS.  Seuls les adhérents à l&rsquo;association sont assurés de participer à l&rsquo;évènement. </p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-4be15c57 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="4be15c57" data-element_type="widget" data-settings="{&quot;button_width_tablet&quot;:&quot;100&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="PopUp Form">
+			<input type="hidden" name="post_id" value="6698"/>
+			<input type="hidden" name="form_id" value="4be15c57"/>
+			<input type="hidden" name="referer_title" value="Oser le changement : le cas CHWAPI Belgique | JA Santé" />
+
+							<input type="hidden" name="queried_id" value="4607"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-entreprise elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-entreprise" class="elementor-field-label elementor-screen-only">Entreprise</label><input size="1" type="text" name="form_fields[entreprise]" id="form-field-entreprise" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Entreprise" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_223c1f4 elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_223c1f4" class="elementor-field-label elementor-screen-only">Nom</label><input size="1" type="text" name="form_fields[field_223c1f4]" id="form-field-field_223c1f4" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Nom Prénom" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-field_cf17f0c elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_cf17f0c" class="elementor-field-label elementor-screen-only">Email</label><input size="1" type="email" name="form_fields[field_cf17f0c]" id="form-field-field_cf17f0c" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Votre email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_55313b9 elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_55313b9" class="elementor-field-label elementor-screen-only">Téléphone</label><input size="1" type="tel" name="form_fields[field_55313b9]" id="form-field-field_55313b9" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Votre téléphone" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Seuls les caractères de numéros de téléphone (#, -, *, etc.) sont acceptés.">				</div>
+								<div class="elementor-field-type-radio elementor-field-group elementor-column elementor-field-group-field_4df5dde elementor-col-66 elementor-field-required">
+					<label for="form-field-field_4df5dde" class="elementor-field-label elementor-screen-only">Membre de l'UAFS</label><div class="elementor-field-subgroup  "><span class="elementor-field-option"><input type="radio" value="OUI, je suis membre de l&#039;UAFS" id="form-field-field_4df5dde-0" name="form_fields[field_4df5dde]" required="required" aria-required="true"> <label for="form-field-field_4df5dde-0">OUI, je suis membre de l'UAFS</label></span><span class="elementor-field-option"><input type="radio" value="NON, je ne suis pas membre de l&#039;UAFS" id="form-field-field_4df5dde-1" name="form_fields[field_4df5dde]" required="required" aria-required="true"> <label for="form-field-field_4df5dde-1">NON, je ne suis pas membre de l'UAFS</label></span></div>				</div>
+								<div class="elementor-field-type-number elementor-field-group elementor-column elementor-field-group-field_0732f20 elementor-col-33 elementor-field-required">
+					<label for="form-field-field_0732f20" class="elementor-field-label elementor-screen-only">Nombre de personnes</label><input type="number" name="form_fields[field_0732f20]" id="form-field-field_0732f20" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Nb de Personnes" required="required" aria-required="true" min="1" max="5">				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_ea6b539 elementor-col-100 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_ea6b539" class="elementor-field-label elementor-screen-only">Noms participants</label><input size="1" type="text" name="form_fields[field_ea6b539]" id="form-field-field_ea6b539" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Nom des participants" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_fdd738d elementor-col-100 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_fdd738d" class="elementor-field-label elementor-screen-only">Message</label><textarea class="elementor-field-textual elementor-field  elementor-size-md" name="form_fields[field_fdd738d]" id="form-field-field_fdd738d" rows="4" placeholder="Votre message" required="required" aria-required="true"></textarea>				</div>
+								<div class="elementor-field-type-acceptance elementor-field-group elementor-column elementor-field-group-field_1c95e4e elementor-col-100 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_1c95e4e" class="elementor-field-label elementor-screen-only">rgpd</label><div class="elementor-field-subgroup"><span class="elementor-field-option"><input type="checkbox" name="form_fields[field_1c95e4e]" id="form-field-field_1c95e4e" class="elementor-field elementor-size-md  elementor-acceptance-field" required="required" aria-required="true"> <label for="form-field-field_1c95e4e">En soumettant ce formulaire, j'accepte que les informations saisies soient utilisées pour me recontacter et dans la relation commerciale qui peut en découler.</label></span></div>				</div>
+								<div class="elementor-field-type-recaptcha_v3 elementor-field-group elementor-column elementor-field-group-field_d91a44c elementor-col-100 recaptcha_v3-inline">
+					<div class="elementor-field" id="form-field-field_d91a44c"><div class="elementor-g-recaptcha" data-sitekey="6LdlojAjAAAAANcGQjJCA8mF_R51KfSfxRNVOftz" data-type="v3" data-action="Form" data-badge="inline" data-size="invisible"></div></div>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons elementor-md-100">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Envoyer votre demande</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+				<div data-elementor-type="popup" data-elementor-id="3977" class="elementor elementor-3977 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeInRight&quot;,&quot;exit_animation&quot;:&quot;fadeInRight&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.1999999999999999555910790149937383830547332763671875,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+		<div class="elementor-section-wrap">
+					<section data-particle_enable="false" data-particle-mobile-disabled="false" class="elementor-section elementor-top-section elementor-element elementor-element-1f14a925 elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="1f14a925" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-58bdcbcc" data-id="58bdcbcc" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6da868fb elementor-align-right elementor-widget elementor-widget-button" data-id="6da868fb" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#elementor-action%3Aaction%3Dpopup%3Aclose%26settings%3DeyJkb19ub3Rfc2hvd19hZ2FpbiI6IiJ9" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<svg xmlns="http://www.w3.org/2000/svg" id="ea6a9e06-6025-4f7d-a165-10c226026855" data-name="Layer 1" width="21.2133" height="21.2133" viewBox="0 0 21.2133 21.2133"><title>CloseMenu</title><path d="M12.728,10.6066l8.4853,8.4853-2.1214,2.1214L10.6066,12.728,2.1213,21.2133,0,19.0919l8.4853-8.4853L0,2.1213,2.1213,0l8.4853,8.4853L19.0919,0l2.1214,2.1213Z" style="fill-rule:evenodd"></path></svg>			</span>
+						<span class="elementor-button-text"></span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-640d43b3" data-id="640d43b3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-36238ed3 elementor-pagination-position-outside elementor-widget elementor-widget-image-carousel" data-id="36238ed3" data-element_type="widget" data-settings="{&quot;slides_to_show&quot;:&quot;1&quot;,&quot;navigation&quot;:&quot;dots&quot;,&quot;pause_on_hover&quot;:&quot;no&quot;,&quot;pause_on_interaction&quot;:&quot;no&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;effect&quot;:&quot;slide&quot;,&quot;speed&quot;:500}" data-widget_type="image-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image-carousel-wrapper swiper-container" dir="ltr">
+			<div class="elementor-image-carousel swiper-wrapper">
+				<div class="swiper-slide"><figure class="swiper-slide-inner"><img class="swiper-slide-image" src="https://www.ja-sante.fr/wp-content/uploads/2024/12/datadock-et-qualiopi.png" alt="datadock-et-qualiopi" /></figure></div>			</div>
+					</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-435b4864 elementor-widget elementor-widget-heading" data-id="435b4864" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Vous souhaitez obtenir une convention par notre organisme de formation ?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-132fc01e elementor-widget elementor-widget-text-editor" data-id="132fc01e" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+								<div class="elementor-text-editor elementor-clearfix">
+					<p>Merci de remplir le formulaire ci-dessous, notre équipe vous répondra dans les plus brefs délais :</p>					</div>
+						</div>
+				</div>
+				<div class="elementor-element elementor-element-79c6232c elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="79c6232c" data-element_type="widget" data-settings="{&quot;button_width_tablet&quot;:&quot;100&quot;,&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-form" method="post" name="PopUp Form">
+			<input type="hidden" name="post_id" value="3977"/>
+			<input type="hidden" name="form_id" value="79c6232c"/>
+			<input type="hidden" name="referer_title" value="Oser le changement : le cas CHWAPI Belgique | JA Santé" />
+
+							<input type="hidden" name="queried_id" value="4607"/>
+			
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-entreprise elementor-col-70 elementor-md-100 elementor-field-required">
+					<label for="form-field-entreprise" class="elementor-field-label elementor-screen-only">Raison sociale</label><input size="1" type="text" name="form_fields[entreprise]" id="form-field-entreprise" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Raison sociale / Établissement" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_d244e76 elementor-col-100 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_d244e76" class="elementor-field-label elementor-screen-only">Adresse postale de votre établissement</label><input size="1" type="text" name="form_fields[field_d244e76]" id="form-field-field_d244e76" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Adresse postale de votre établissement / agence" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-field_1b2b7ba elementor-col-70 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_1b2b7ba" class="elementor-field-label elementor-screen-only">Nom</label><input size="1" type="text" name="form_fields[field_1b2b7ba]" id="form-field-field_1b2b7ba" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Nom Prénom" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-field_cf17f0c elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_cf17f0c" class="elementor-field-label elementor-screen-only">Email</label><input size="1" type="email" name="form_fields[field_cf17f0c]" id="form-field-field_cf17f0c" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Votre email" required="required" aria-required="true">				</div>
+								<div class="elementor-field-type-tel elementor-field-group elementor-column elementor-field-group-field_55313b9 elementor-col-50 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_55313b9" class="elementor-field-label elementor-screen-only">Téléphone</label><input size="1" type="tel" name="form_fields[field_55313b9]" id="form-field-field_55313b9" class="elementor-field elementor-size-md  elementor-field-textual" placeholder="Votre téléphone" required="required" aria-required="true" pattern="[0-9()#&amp;+*-=.]+" title="Seuls les caractères de numéros de téléphone (#, -, *, etc.) sont acceptés.">				</div>
+								<div class="elementor-field-type-textarea elementor-field-group elementor-column elementor-field-group-field_ea6b539 elementor-col-100 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_ea6b539" class="elementor-field-label elementor-screen-only">Message</label><textarea class="elementor-field-textual elementor-field  elementor-size-md" name="form_fields[field_ea6b539]" id="form-field-field_ea6b539" rows="4" placeholder="Votre message" required="required" aria-required="true"></textarea>				</div>
+								<div class="elementor-field-type-acceptance elementor-field-group elementor-column elementor-field-group-field_8b64573 elementor-col-100 elementor-md-100 elementor-field-required">
+					<label for="form-field-field_8b64573" class="elementor-field-label elementor-screen-only">rgpd</label><div class="elementor-field-subgroup"><span class="elementor-field-option"><input type="checkbox" name="form_fields[field_8b64573]" id="form-field-field_8b64573" class="elementor-field elementor-size-md  elementor-acceptance-field" required="required" aria-required="true"> <label for="form-field-field_8b64573">En soumettant ce formulaire, j'accepte que les informations saisies soit utilisées pour me recontacter et dans la relation commerciale qui peut en découler.</label></span></div>				</div>
+								<div class="elementor-field-type-html elementor-field-group elementor-column elementor-field-group-field_2d5ce5e elementor-col-100 elementor-md-100">
+					<!-- Cloudflare Turnstile -->
+<div 
+  class="cf-turnstile"
+  data-sitekey="0x4AAAAAADUMKaFVVmNC9cYO"
+  data-theme="auto"
+  data-appearance="always">
+</div>				</div>
+								<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons elementor-md-100">
+					<button type="submit" class="elementor-button elementor-size-sm">
+						<span >
+															<span class=" elementor-button-icon">
+																										</span>
+																						<span class="elementor-button-text">Envoyer votre demande</span>
+													</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				</div>
+		</div>
+		<link rel='stylesheet' id='wp-event-manager-slick-style-css'  href='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/slick/slick.css?ver=5.6.21' type='text/css' media='all' />
+<link rel='stylesheet' id='cookie-law-info-table-css'  href='https://www.ja-sante.fr/wp-content/plugins/cookie-law-info/public/css/cookie-law-info-table.css?ver=2.0.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/common.min.js?ver=3.1.21' id='wp-event-manager-common-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/core.min.js?ver=1.11.4-wp' id='jquery-ui-core-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/widget.min.js?ver=1.11.4-wp' id='jquery-ui-widget-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/button.min.js?ver=1.11.4-wp' id='jquery-ui-button-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/datepicker.min.js?ver=1.11.4-wp' id='jquery-ui-datepicker-js'></script>
+<script type='text/javascript' id='jquery-ui-datepicker-js-after'>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Fermer","currentText":"Aujourd\u2019hui","monthNames":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthNamesShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"nextText":"Suivant","prevText":"Pr\u00e9c\u00e9dent","dayNames":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"dayNamesShort":["dim","lun","mar","mer","jeu","ven","sam"],"dayNamesMin":["D","L","M","M","J","V","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
+</script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/position.min.js?ver=1.11.4-wp' id='jquery-ui-position-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/enable-jquery-migrate-helper/js/jquery-ui/menu.min.js?ver=1.11.4-wp' id='jquery-ui-menu-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-includes/js/dist/vendor/moment.min.js?ver=2.26.0' id='moment-js'></script>
+<script type='text/javascript' id='moment-js-after'>
+moment.updateLocale( 'fr_FR', {"months":["janvier","f\u00e9vrier","mars","avril","mai","juin","juillet","ao\u00fbt","septembre","octobre","novembre","d\u00e9cembre"],"monthsShort":["Jan","F\u00e9v","Mar","Avr","Mai","Juin","Juil","Ao\u00fbt","Sep","Oct","Nov","D\u00e9c"],"weekdays":["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"],"weekdaysShort":["dim","lun","mar","mer","jeu","ven","sam"],"week":{"dow":1},"longDateFormat":{"LT":"g:i a","LTS":null,"L":null,"LL":"F j, Y","LLL":"d F Y G\\hi","LLLL":null}} );
+</script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/jquery-ui-daterangepicker/jquery.comiseo.daterangepicker.js?ver=3.1.21' id='wp-event-manager-jquery-ui-daterangepicker-js'></script>
+<script type='text/javascript' id='wp-event-manager-content-event-listing-js-extra'>
+/* <![CDATA[ */
+var event_manager_content_event_listing = {"i18n_initialText":"S\u00e9lectionnez une p\u00e9riode","i18n_applyButtonText":"Appliquer","i18n_clearButtonText":"Effacer","i18n_cancelButtonText":"Annuler","i18n_today":"Aujourd\u2019hui","i18n_tomorrow":"Demain","i18n_thisWeek":"Cette semaine","i18n_nextWeek":"Semaine suivante","i18n_thisMonth":"Ce mois","i18n_nextMonth":"Mois suivant","i18n_thisYear":"Cette ann\u00e9e","i18n_nextYear":"Mois suivant"};
+var event_manager_content_event_listing = {"i18n_datepicker_format":"dd\/mm\/yy","i18n_initialText":"S\u00e9lectionner la plage de date","i18n_applyButtonText":"Appliquer","i18n_clearButtonText":"Effacer","i18n_cancelButtonText":"Annuler","i18n_today":"Aujourd\u2019hui","i18n_tomorrow":"Demain","i18n_thisWeek":"Cette semaine","i18n_nextWeek":"Semaine suivante","i18n_thisMonth":"Ce mois","i18n_nextMonth":"Mois suivant","i18n_thisYear":"Cette ann\u00e9e","i18n_nextYear":"Ann\u00e9e suivante"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/content-event-listing.min.js?ver=3.1.21' id='wp-event-manager-content-event-listing-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/jquery-deserialize/jquery.deserialize.js?ver=1.2.1' id='jquery-deserialize-js'></script>
+<script type='text/javascript' id='wp-event-manager-ajax-filters-js-extra'>
+/* <![CDATA[ */
+var event_manager_ajax_filters = {"ajax_url":"https:\/\/www.ja-sante.fr\/em-ajax\/get_listings\/","is_rtl":"0","lang":null};
+var event_manager_ajax_filters = {"ajax_url":"\/em-ajax\/%%endpoint%%\/","is_rtl":"0","lang":null};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/event-ajax-filters.min.js?ver=3.1.21' id='wp-event-manager-ajax-filters-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/jquery-timepicker/jquery.timepicker.min.js?ver=3.1.21' id='wp-event-manager-jquery-timepicker-js'></script>
+<script type='text/javascript' id='wp_slimstat-js-extra'>
+/* <![CDATA[ */
+var SlimStatParams = {"ajaxurl":"https:\/\/www.ja-sante.fr\/wp-admin\/admin-ajax.php","baseurl":"\/","dnt":"noslimstat,ab-item","ci":"YTo0OntzOjEyOiJjb250ZW50X3R5cGUiO3M6MTc6ImNwdDpldmVudF9saXN0aW5nIjtzOjg6ImNhdGVnb3J5IjtzOjU6IjU4LDUzIjtzOjEwOiJjb250ZW50X2lkIjtpOjQ2MDc7czo2OiJhdXRob3IiO3M6MjY6ImFiZWxsdWMuaG9zcGl0YWxAZ21haWwuY29tIjt9.b1cd8fe9c88320f18bf2d381131f69f1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://cdn.jsdelivr.net/wp/wp-slimstat/tags/4.8.8.1/wp-slimstat.min.js' id='wp_slimstat-js'></script>
+<script type='text/javascript' src='https://challenges.cloudflare.com/turnstile/v0/api.js?render=explicit' id='cloudflare-turnstile-js'></script>
+<script type='text/javascript' id='cloudflare-turnstile-js-after'>
+(function () {
+	'use strict';
+
+	var maxAttempts = 40;
+	var observerStarted = false;
+
+	function log() {
+		if (!window.console || !document.documentElement.classList.contains('ovren-turnstile-debug')) {
+			return;
+		}
+
+		var args = Array.prototype.slice.call(arguments);
+		args.unshift('[OVREN Turnstile]');
+		console.log.apply(console, args);
+	}
+
+	function isTurnstileReady() {
+		return (
+			typeof window.turnstile !== 'undefined' &&
+			typeof window.turnstile.render === 'function'
+		);
+	}
+
+	function renderTurnstileWidgets(scope, attempt) {
+		attempt = attempt || 0;
+
+		if (!isTurnstileReady()) {
+			if (attempt < maxAttempts) {
+				window.setTimeout(function () {
+					renderTurnstileWidgets(scope, attempt + 1);
+				}, 250);
+			}
+			return;
+		}
+
+		var root = scope && typeof scope.querySelectorAll === 'function'
+			? scope
+			: document;
+
+		var widgets = root.querySelectorAll('.cf-turnstile');
+
+		if (!widgets.length) {
+			return;
+		}
+
+		widgets.forEach(function (el) {
+			if (el.dataset.ovrenTurnstileRendered === '1') {
+				return;
+			}
+
+			var siteKey = el.getAttribute('data-sitekey');
+
+			if (!siteKey) {
+				log('Widget ignoré : data-sitekey absent.', el);
+				return;
+			}
+
+			try {
+				var widgetId = window.turnstile.render(el, {
+					sitekey: siteKey,
+					theme: el.getAttribute('data-theme') || 'auto',
+					appearance: el.getAttribute('data-appearance') || 'always'
+				});
+
+				el.dataset.ovrenTurnstileRendered = '1';
+
+				if (typeof widgetId !== 'undefined') {
+					el.dataset.ovrenTurnstileWidgetId = widgetId;
+				}
+
+				log('Widget rendu.', el);
+			} catch (error) {
+				log('Erreur de rendu.', error);
+			}
+		});
+	}
+
+	function resetTurnstileWidgets(scope) {
+		if (!isTurnstileReady() || typeof window.turnstile.reset !== 'function') {
+			return;
+		}
+
+		var root = scope && typeof scope.querySelectorAll === 'function'
+			? scope
+			: document;
+
+		root.querySelectorAll('.cf-turnstile[data-ovren-turnstile-rendered="1"]').forEach(function (el) {
+			var widgetId = el.dataset.ovrenTurnstileWidgetId;
+
+			try {
+				if (widgetId) {
+					window.turnstile.reset(widgetId);
+					log('Widget reset.', widgetId);
+				}
+			} catch (error) {
+				log('Erreur de reset.', error);
+			}
+		});
+	}
+
+	function scheduleRender(delay, scope) {
+		window.setTimeout(function () {
+			renderTurnstileWidgets(scope || document);
+		}, delay || 100);
+	}
+
+	function boot() {
+		scheduleRender(100);
+		scheduleRender(600);
+		scheduleRender(1200);
+		startObserver();
+	}
+
+	function startObserver() {
+		if (observerStarted || typeof MutationObserver === 'undefined' || !document.documentElement) {
+			return;
+		}
+
+		observerStarted = true;
+
+		var observer = new MutationObserver(function (mutations) {
+			var shouldRender = false;
+
+			mutations.forEach(function (mutation) {
+				if (!mutation.addedNodes || !mutation.addedNodes.length) {
+					return;
+				}
+
+				mutation.addedNodes.forEach(function (node) {
+					if (!node || node.nodeType !== 1) {
+						return;
+					}
+
+					if (
+						(node.classList && node.classList.contains('cf-turnstile')) ||
+						(typeof node.querySelector === 'function' && node.querySelector('.cf-turnstile'))
+					) {
+						shouldRender = true;
+					}
+				});
+			});
+
+			if (shouldRender) {
+				scheduleRender(150);
+				scheduleRender(600);
+			}
+		});
+
+		observer.observe(document.documentElement, {
+			childList: true,
+			subtree: true
+		});
+	}
+
+	if (document.readyState === 'loading') {
+		document.addEventListener('DOMContentLoaded', boot);
+	} else {
+		boot();
+	}
+
+	window.addEventListener('load', function () {
+		scheduleRender(100);
+		scheduleRender(800);
+	});
+
+	/**
+	 * Popups Elementor.
+	 */
+	if (window.jQuery) {
+		window.jQuery(window).on('elementor/popup/show', function () {
+			scheduleRender(150);
+			scheduleRender(600);
+			scheduleRender(1200);
+		});
+
+		/**
+		 * Après une soumission Ajax Elementor, le token peut être consommé.
+		 * On reset pour permettre une nouvelle tentative sans recharger la page.
+		 */
+		window.jQuery(document).ajaxComplete(function () {
+			window.setTimeout(function () {
+				resetTurnstileWidgets(document);
+			}, 1000);
+		});
+	}
+
+	document.addEventListener('elementor/popup/show', function () {
+		scheduleRender(150);
+		scheduleRender(600);
+		scheduleRender(1200);
+	});
+
+	document.addEventListener('submit', function (event) {
+		var form = event.target;
+
+		if (!form || typeof form.querySelector !== 'function') {
+			return;
+		}
+
+		if (!form.querySelector('.cf-turnstile')) {
+			return;
+		}
+
+		window.setTimeout(function () {
+			resetTurnstileWidgets(form);
+		}, 3000);
+	}, true);
+})();
+</script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-admin/admin-ajax.php?action=pwaforwp_sw_files&#038;pwa_for_wp_script=1&#038;sw=pwa-register-sw.js&#038;ver=1.7.32' id='pwa-main-script-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-includes/js/wp-embed.min.js?ver=5.6.21' id='wp-embed-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1' id='smartmenus-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/slick/slick.min.js?ver=5.6.21' id='wp-event-manager-slick-script-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/wp-event-manager/assets/js/event-registration.min.js?ver=3.1.21' id='wp-event-manager-event-registration-js'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?render=explicit&#038;ver=3.2.2' id='elementor-recaptcha_v3-api-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.2.2' id='elementor-pro-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.2.3' id='elementor-webpack-runtime-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.2.3' id='elementor-frontend-modules-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.2.2' id='elementor-sticky-js'></script>
+<script type='text/javascript' id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.ja-sante.fr\/wp-admin\/admin-ajax.php","nonce":"99a6b81060","urls":{"assets":"https:\/\/www.ja-sante.fr\/wp-content\/plugins\/elementor-pro\/assets\/"},"i18n":{"toc_no_headings_found":"Aucun titre n\u2019a \u00e9t\u00e9 trouv\u00e9 sur cette page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"fr_FR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.ja-sante.fr\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.2.2' id='elementor-pro-frontend-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.2.3' id='share-link-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script type='text/javascript' id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Partager sur Facebook","shareOnTwitter":"Partager sur Twitter","pinIt":"L\u2019\u00e9pingler","download":"T\u00e9l\u00e9charger","downloadImage":"T\u00e9l\u00e9charger une image","fullscreen":"Plein \u00e9cran","zoom":"Zoom","share":"Partager","playVideo":"Lire la vid\u00e9o","previous":"Pr\u00e9c\u00e9dent","next":"Suivant","close":"Fermer"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Grand mobile","value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablette","value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Grande tablette","value":1365,"direction":"max","is_enabled":false},"laptop":{"label":"Portable","value":1620,"direction":"max","is_enabled":false},"widescreen":{"label":"\u00c9cran large","value":2400,"direction":"min","is_enabled":false}}},"version":"3.2.3","is_static":false,"experimentalFeatures":{"form-submissions":true},"urls":{"assets":"https:\/\/www.ja-sante.fr\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":4607,"title":"Oser%20le%20changement%20%3A%20le%20cas%20CHWAPI%20Belgique%20%7C%20JA%20Sant%C3%A9","excerpt":"","featuredImage":"https:\/\/www.ja-sante.fr\/wp-content\/uploads\/2022\/05\/Conference-TH-3-1024x681.jpg"}};
+</script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.2.3' id='elementor-frontend-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor-pro/assets/js/preloaded-elements-handlers.min.js?ver=3.2.2' id='pro-preloaded-elements-handlers-js'></script>
+<script type='text/javascript' src='https://www.ja-sante.fr/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.2.3' id='preloaded-modules-js'></script>
+</body>
+</html> 
